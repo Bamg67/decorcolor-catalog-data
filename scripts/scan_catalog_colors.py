@@ -324,15 +324,23 @@ def dominant_colors(image_path: Path, maximum: int = 3) -> tuple[list[dict], str
     distance = np.sqrt(((lab - bg) ** 2).sum(axis=2))
     ring_distance = np.sqrt(((ring - bg) ** 2).sum(axis=1))
     bg_threshold = max(12.0, float(np.percentile(ring_distance, 90)) + 3.0)
-    keep = ellipse & (distance >= bg_threshold)
+    chroma = np.hypot(lab[:, :, 1], lab[:, :, 2])
+    background_chroma = float(np.median(np.hypot(ring[:, 1], ring[:, 2])))
+    neutral_limit = max(10.0, min(14.0, background_chroma + 5.0))
+    gray_background = (
+        (chroma < neutral_limit)
+        & (lab[:, :, 0] > 20.0)
+        & (lab[:, :, 0] < 82.0)
+    )
+    keep = ellipse & (distance >= bg_threshold) & ~gray_background
     pixels = lab[keep]
     if len(pixels) < 250:
-        pixels = lab[ellipse].reshape(-1, 3)
+        pixels = lab[ellipse & ~gray_background]
     if len(pixels) > 18000:
         step = max(1, len(pixels) // 18000)
         pixels = pixels[::step]
     if len(pixels) < 100:
-        return [], "not enough product pixels"
+        return [], "review: no non-gray product pixels"
 
     centers, labels = kmeans(pixels, min(7, max(2, len(pixels) // 500)))
     sizes = np.bincount(labels, minlength=len(centers)).astype(float)
@@ -348,8 +356,8 @@ def dominant_colors(image_path: Path, maximum: int = 3) -> tuple[list[dict], str
         candidates.append((center, share))
 
     if not candidates:
-        # Low-contrast products such as white lace on a light background still
-        # need a usable neutral estimate. Prefer the largest central cluster.
+        # Pixels are already free of the neutral gray background, so this
+        # fallback cannot reintroduce it as a product color.
         idx = int(np.argmax(sizes))
         candidates = [(np.median(pixels[labels == idx], axis=0), float(sizes[idx] / sizes.sum()))]
 

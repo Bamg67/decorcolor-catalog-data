@@ -34,9 +34,15 @@ def validate(rows):
         raise ValueError("a product URL is missing")
     if len(urls) != len(set(urls)):
         raise ValueError("duplicate product URLs found")
-    bad = [row for row in rows if row.get("status") != "ok" or not row.get("colors")]
+    bad = [
+        row for row in rows
+        if not (
+            (row.get("status") == "ok" and row.get("colors"))
+            or (str(row.get("status", "")).startswith("review:") and not row.get("colors"))
+        )
+    ]
     if bad:
-        raise ValueError("%d rows have no verified color result" % len(bad))
+        raise ValueError("%d rows have an invalid color result" % len(bad))
     if any(len(row["colors"]) > 3 for row in rows):
         raise ValueError("a product has more than three colors")
 
@@ -53,7 +59,7 @@ def flat_row(row):
             color["share"], color["lightness_from"], color["lightness_to"],
             color["delta_e_likely"], color["delta_e_review"],
         ])
-    values.append("Готово")
+    values.append("Готово" if row.get("status") == "ok" else "Требует проверки")
     return values
 
 
@@ -130,6 +136,8 @@ def main():
         "version": "%s.%s" % (now.strftime("%Y.%m.%d"), digest[:8]),
         "generatedAt": now.isoformat().replace("+00:00", "Z"),
         "products": len(rows),
+        "coloredProducts": sum(bool(row.get("colors")) for row in rows),
+        "reviewProducts": sum(not row.get("colors") for row in rows),
         "catalogUrl": BASE_RAW + "catalog-colors.json",
         "csvUrl": BASE_RAW + "catalog-colors.csv",
         "sha256": digest,
