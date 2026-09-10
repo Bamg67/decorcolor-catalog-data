@@ -1,0 +1,51 @@
+name: Update catalog
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * 1"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: catalog-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: python -m pip install -r requirements.txt
+
+      - name: Scan new and changed products
+        run: >-
+          python scripts/scan_catalog_colors.py
+          --work-dir .cache/catalog_scan
+          --output build/product_colors.json
+          --previous data/catalog-colors.json
+          --pause 1.5
+
+      - name: Validate and publish files
+        run: python scripts/publish_catalog.py build/product_colors.json data
+
+      - name: Commit changed catalog
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "Catalog has not changed"
+            exit 0
+          fi
+          git commit -m "Update product color catalog"
+          git push
