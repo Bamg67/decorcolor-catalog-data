@@ -34,6 +34,12 @@ jobs:
           --previous data/catalog-colors.json
           --pause 1.5
 
+      - name: Attach Ukrainian product links
+        run: >-
+          python scripts/enrich_uk_links.py build/product_colors.json
+          --work-dir .cache/catalog_scan
+          --pause 1.5
+
       - name: Validate and publish files
         run: python scripts/publish_catalog.py build/product_colors.json data
 

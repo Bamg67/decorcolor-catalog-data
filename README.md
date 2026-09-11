@@ -11,6 +11,10 @@
 - `data/decor_opt_product_colors.xlsx` — таблица с цветовыми образцами для ручной проверки.
 - `data/manifest.json` — версия, дата, количество записей и SHA-256 каталога.
 
+Каждая строка содержит отдельные ссылки на русскую (`product_url`) и, если перевод
+существует, украинскую (`product_url_uk`) карточки. Цвет фотографии рассчитывается
+один раз для обеих страниц. Отсутствующая украинская карточка остаётся пустой.
+
 Приложению достаточно сначала получить небольшой файл:
 
 ```text
@@ -42,8 +46,9 @@ Workflow `Update catalog` запускается вручную или по по
 1. перечитывает карту и действующие разделы сайта с паузой между запросами;
 2. повторно использует цвета, если URL карточки и фотографии не изменились;
 3. скачивает и анализирует только новые или изменённые фотографии;
-4. проверяет полноту и уникальность данных;
-5. обновляет JSON, CSV, XLSX и манифест одним коммитом.
+4. сопоставляет точные ссылки из украинских разделов без повторной загрузки фотографий;
+5. проверяет полноту и уникальность данных;
+6. обновляет JSON, CSV, XLSX и манифест одним коммитом.
 
 Ручной запуск:
 
@@ -51,5 +56,6 @@ Workflow `Update catalog` запускается вручную или по по
 python -m pip install -r requirements.txt
 python scripts/scan_catalog_colors.py --work-dir .cache/catalog_scan \
   --output build/product_colors.json --previous data/catalog-colors.json --pause 1.5
+python scripts/enrich_uk_links.py build/product_colors.json --work-dir .cache/catalog_scan --pause 1.5
 python scripts/publish_catalog.py build/product_colors.json data
 ```

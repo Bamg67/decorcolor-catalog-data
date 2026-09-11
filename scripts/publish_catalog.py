@@ -12,11 +12,12 @@ from pathlib import Path
 
 from openpyxl import Workbook
 from openpyxl.styles import Alignment, Font, PatternFill
+from openpyxl.utils import get_column_letter
 from openpyxl.worksheet.table import Table, TableStyleInfo
 
 
 BASE_RAW = "https://raw.githubusercontent.com/Bamg67/decorcolor-catalog-data/main/data/"
-HEADERS = ["Товар", "Карточка", "Фото", "Цветов"]
+HEADERS = ["Товар", "Карточка RU", "Карточка UK", "Фото", "Цветов"]
 for number in range(1, 4):
     HEADERS.extend([
         f"HEX {number}", f"Hue {number}", f"Hue от {number}", f"Hue до {number}",
@@ -48,7 +49,8 @@ def validate(rows):
 
 
 def flat_row(row):
-    values = [row["title"], row["product_url"], row["image_url"], len(row["colors"])]
+    values = [row["title"], row["product_url"], row.get("product_url_uk") or "",
+              row["image_url"], len(row["colors"])]
     for index in range(3):
         color = row["colors"][index] if index < len(row["colors"]) else None
         if not color:
@@ -86,20 +88,31 @@ def make_xlsx(rows, target: Path):
     sheet.row_dimensions[1].height = 30
     sheet.freeze_panes = "B2"
     sheet.column_dimensions["A"].width = 52
-    sheet.column_dimensions["B"].width = 22
-    sheet.column_dimensions["C"].width = 22
-    for column in range(4, len(HEADERS) + 1):
-        sheet.column_dimensions[chr(64 + column) if column <= 26 else "A" + chr(64 + column - 26)].width = 12
+    sheet.column_dimensions["B"].width = 14
+    sheet.column_dimensions["C"].width = 14
+    sheet.column_dimensions["D"].width = 15
+    for column in range(5, len(HEADERS) + 1):
+        sheet.column_dimensions[get_column_letter(column)].width = 12
 
     for row_index, row in enumerate(rows, 2):
-        for color_index, column in enumerate((5, 14, 23)):
+        for column, label in ((2, "Открыть RU"), (3, "Открыть UK"), (4, "Открыть фото")):
+            cell = sheet.cell(row_index, column)
+            if cell.value:
+                cell.hyperlink = cell.value
+                cell.value = label
+                cell.style = "Hyperlink"
+        for color_index, column in enumerate((6, 15, 24)):
             if color_index >= len(row["colors"]):
                 continue
             color = row["colors"][color_index]["hex"].lstrip("#")
             sheet.cell(row_index, column).fill = PatternFill("solid", fgColor=color)
-            sheet.cell(row_index, column).font = Font(color=color)
+            red, green, blue = (int(color[index:index + 2], 16) for index in (0, 2, 4))
+            contrast = "000000" if 0.299 * red + 0.587 * green + 0.114 * blue > 150 else "FFFFFF"
+            sheet.cell(row_index, column).font = Font(name="Arial", size=10, bold=True,
+                                                      color=contrast)
 
-    table = Table(displayName="ProductColors", ref=f"A1:AF{len(rows) + 1}")
+    table = Table(displayName="ProductColors",
+                  ref=f"A1:{get_column_letter(len(HEADERS))}{len(rows) + 1}")
     table.tableStyleInfo = TableStyleInfo(name="TableStyleLight1", showRowStripes=True)
     sheet.add_table(table)
     temporary = target.with_suffix(".xlsx.tmp")
@@ -138,6 +151,7 @@ def main():
         "products": len(rows),
         "coloredProducts": sum(bool(row.get("colors")) for row in rows),
         "reviewProducts": sum(not row.get("colors") for row in rows),
+        "ukLinkedProducts": sum(bool(row.get("product_url_uk")) for row in rows),
         "catalogUrl": BASE_RAW + "catalog-colors.json",
         "csvUrl": BASE_RAW + "catalog-colors.csv",
         "sha256": digest,

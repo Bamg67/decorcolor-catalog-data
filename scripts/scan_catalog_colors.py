@@ -135,27 +135,44 @@ def parse_product_cards(page_html: str, page_url: str) -> list[dict]:
     return products
 
 
-def pagination_links(page_html: str, page_url: str) -> set[str]:
+def pagination_links(page_html: str, page_url: str, language_prefix: str = "") -> set[str]:
     links = set()
     for href in re.findall(r'href\s*=\s*[\"\']([^\"\']+)[\"\']', page_html, re.I):
         if "results," not in href.lower():
             continue
         url = absolute_url(href, page_url).split("#", 1)[0]
-        if url.startswith(BASE + "/novinki/"):
+        if url.startswith(BASE + language_prefix + "/novinki/"):
             links.add(url)
     return links
 
 
-def discover_products(fetcher: CachedFetcher, max_pages: int | None = None) -> list[dict]:
+def localized_catalog_links(page_html: str, page_url: str,
+                            language_prefix: str) -> set[str]:
+    prefix = BASE + language_prefix + "/novinki"
+    links = set()
+    for href in re.findall(r'href\s*=\s*["\']([^"\']+)["\']', page_html, re.I):
+        url = absolute_url(href, page_url).split("#", 1)[0]
+        if url.startswith(prefix) and not DETAIL_RE.search(url):
+            links.add(url)
+    return links
+
+
+def discover_products(fetcher: CachedFetcher, max_pages: int | None = None,
+                      language_prefix: str = "") -> list[dict]:
     urls = sitemap_urls(fetcher)
     products = {}
-    pages = catalog_page_candidates(urls)
+    if language_prefix:
+        pages = [BASE + language_prefix + "/novinki.html"]
+    else:
+        pages = catalog_page_candidates(urls)
     if max_pages is not None:
         pages = pages[:max_pages]
     queue = list(pages)
+    queued_pages = set(queue)
     seen_pages = set()
     while queue:
         page = queue.pop(0)
+        queued_pages.discard(page)
         if page in seen_pages:
             continue
         seen_pages.add(page)
@@ -167,9 +184,14 @@ def discover_products(fetcher: CachedFetcher, max_pages: int | None = None) -> l
                     previous["images"].append(product["images"][0])
                 elif not previous:
                     products[product["product_url"]] = product
-            for next_page in pagination_links(page_html, page):
-                if next_page not in seen_pages:
+            if language_prefix:
+                next_pages = localized_catalog_links(page_html, page, language_prefix)
+            else:
+                next_pages = pagination_links(page_html, page)
+            for next_page in next_pages:
+                if next_page not in seen_pages and next_page not in queued_pages:
                     queue.append(next_page)
+                    queued_pages.add(next_page)
         except Exception as exc:
             print("category error:", page, exc, file=sys.stderr)
         count = len(seen_pages)
