@@ -438,6 +438,8 @@ def scan(args: argparse.Namespace) -> list[dict]:
     if args.index_only:
         print("index only, products %d" % len(products))
         return []
+    output = Path(args.output)
+    output.parent.mkdir(parents=True, exist_ok=True)
     previous = {}
     if args.previous and Path(args.previous).exists():
         old_rows = json.loads(Path(args.previous).read_text(encoding="utf-8"))
@@ -472,7 +474,7 @@ def scan(args: argparse.Namespace) -> list[dict]:
                 })
         if index % 20 == 0 or index == len(products):
             print("products %d/%d, rows %d" % (index, len(products), len(rows)))
-            Path(args.output).write_text(json.dumps(rows, ensure_ascii=False, indent=2), encoding="utf-8")
+            output.write_text(json.dumps(rows, ensure_ascii=False, indent=2), encoding="utf-8")
     return rows
 
 
