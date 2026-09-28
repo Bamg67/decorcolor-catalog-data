@@ -54,4 +54,16 @@ jobs:
             exit 0
           fi
           git commit -m "Update product color catalog"
-          git push
+          # Scanning takes over an hour; main may move meanwhile (another run,
+          # an edit on GitHub). Replay our commit on top and retry. On a
+          # conflict in data/ the fresh scan wins (-X theirs = our commit).
+          for attempt in 1 2 3; do
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Push rejected (attempt $attempt), rebasing on origin/main"
+            git fetch origin main
+            git rebase -X theirs origin/main
+          done
+          echo "Could not push after 3 attempts" >&2
+          exit 1
