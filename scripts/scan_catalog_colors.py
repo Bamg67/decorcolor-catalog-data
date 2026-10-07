@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 """Build a product-photo color index for decor-opt.com.ua.
 
-The crawler is intentionally conservative: it reads the public sitemap, expands
-catalog/category pages, caches every response, and sleeps between network calls.
+The crawler is intentionally conservative: it starts from the catalog root and
+the public sitemap, follows category links, caches every response, and sleeps
+between network calls.
 Output is JSON so a separate presentation step can create CSV/XLSX without
 mixing crawling, image analysis, and workbook formatting.
 """
@@ -28,7 +29,10 @@ import numpy as np
 from PIL import Image, ImageOps
 
 
-BASE = "https://decor-opt.com.ua"
+# DECOR_BASE points the crawler at a copy of the site (e.g. http://decor.test)
+# to check discovery without loading the live shop.
+BASE = os.environ.get("DECOR_BASE", "https://decor-opt.com.ua").rstrip("/")
+CATALOG_ROOT = "/novinki.html"
 SITEMAP = BASE + "/sitemap.xml"
 UA = {"User-Agent": "Mozilla/5.0 (DecorColor product palette; owner-authorized)"}
 DETAIL_RE = re.compile(r"(?:-detail\.html|/details\.html)(?:[?#].*)?$", re.I)
@@ -88,8 +92,15 @@ class CachedFetcher:
 
 
 def sitemap_urls(fetcher: CachedFetcher) -> list[str]:
-    root = ET.fromstring(fetcher.bytes(SITEMAP, ".xml"))
-    return [node.text.strip() for node in root.iter() if node.tag.endswith("loc") and node.text]
+    # The sitemap is a static 500-link file from 2016: an extra seed, never
+    # the only one. Without it the crawl still starts from the catalog root.
+    try:
+        root = ET.fromstring(fetcher.bytes(SITEMAP, ".xml"))
+    except Exception as exc:
+        print("sitemap unavailable:", exc, file=sys.stderr)
+        return []
+    return [node.text.strip().replace("https://decor-opt.com.ua", BASE, 1)
+            for node in root.iter() if node.tag.endswith("loc") and node.text]
 
 
 def detail_links(page_html: str, page_url: str) -> set[str]:
@@ -135,42 +146,31 @@ def parse_product_cards(page_html: str, page_url: str) -> list[dict]:
     return products
 
 
-def pagination_links(page_html: str, page_url: str, language_prefix: str = "") -> set[str]:
-    links = set()
-    for href in re.findall(r'href\s*=\s*[\"\']([^\"\']+)[\"\']', page_html, re.I):
-        if "results," not in href.lower():
-            continue
-        url = absolute_url(href, page_url).split("#", 1)[0]
-        if url.startswith(BASE + language_prefix + "/novinki/"):
-            links.add(url)
-    return links
-
-
 def localized_catalog_links(page_html: str, page_url: str,
                             language_prefix: str) -> set[str]:
+    """Category and pagination (`results,`) pages of one language. Sort and
+    filter variants (`?orderby=`) repeat listings reached anyway — skipped."""
     prefix = BASE + language_prefix + "/novinki"
     links = set()
     for href in re.findall(r'href\s*=\s*["\']([^"\']+)["\']', page_html, re.I):
         url = absolute_url(href, page_url).split("#", 1)[0]
-        if url.startswith(prefix) and not DETAIL_RE.search(url):
+        if url.startswith(prefix) and "?" not in url and not DETAIL_RE.search(url):
             links.add(url)
     return links
 
 
 def discover_products(fetcher: CachedFetcher, max_pages: int | None = None,
                       language_prefix: str = "") -> list[dict]:
-    urls = sitemap_urls(fetcher)
     products = {}
-    if language_prefix:
-        pages = [BASE + language_prefix + "/novinki.html"]
-    else:
-        pages = catalog_page_candidates(urls)
-    if max_pages is not None:
-        pages = pages[:max_pages]
+    # Both languages start from the catalog root and follow category links:
+    # the sitemap misses whole sections (feathers, bag hardware, ...).
+    pages = [BASE + language_prefix + CATALOG_ROOT]
+    if not language_prefix:
+        pages += [u for u in catalog_page_candidates(sitemap_urls(fetcher)) if u not in pages]
     queue = list(pages)
     queued_pages = set(queue)
     seen_pages = set()
-    while queue:
+    while queue and (max_pages is None or len(seen_pages) < max_pages):
         page = queue.pop(0)
         queued_pages.discard(page)
         if page in seen_pages:
@@ -184,10 +184,7 @@ def discover_products(fetcher: CachedFetcher, max_pages: int | None = None,
                     previous["images"].append(product["images"][0])
                 elif not previous:
                     products[product["product_url"]] = product
-            if language_prefix:
-                next_pages = localized_catalog_links(page_html, page, language_prefix)
-            else:
-                next_pages = pagination_links(page_html, page)
+            next_pages = localized_catalog_links(page_html, page, language_prefix)
             for next_page in next_pages:
                 if next_page not in seen_pages and next_page not in queued_pages:
                     queue.append(next_page)

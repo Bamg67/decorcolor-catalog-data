@@ -15,7 +15,9 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    # Full category crawl (both languages) + first scan of new products can
+    # take ~1.5 h; weekly runs after that reuse colors and take minutes.
+    timeout-minutes: 240
     steps:
       - uses: actions/checkout@v4
 

@@ -43,7 +43,9 @@ https://raw.githubusercontent.com/Bamg67/decorcolor-catalog-data/main/data/manif
 
 Workflow `Update catalog` запускается вручную или по понедельникам. Он:
 
-1. перечитывает карту и действующие разделы сайта с паузой между запросами;
+1. обходит каталог от корня `/novinki.html` по ссылкам разделов (карта сайта — только
+   дополнительная точка входа: в ней 500 ссылок 2016 года, часть разделов не попала)
+   с паузой между запросами;
 2. повторно использует цвета, если URL карточки и фотографии не изменились;
 3. скачивает и анализирует только новые или изменённые фотографии;
 4. сопоставляет точные ссылки из украинских разделов без повторной загрузки фотографий;
@@ -58,4 +60,12 @@ python scripts/scan_catalog_colors.py --work-dir .cache/catalog_scan \
   --output build/product_colors.json --previous data/catalog-colors.json --pause 1.5
 python scripts/enrich_uk_links.py build/product_colors.json --work-dir .cache/catalog_scan --pause 1.5
 python scripts/publish_catalog.py build/product_colors.json data
+```
+
+Проверить обход на копии сайта, не нагружая боевой (только список товаров,
+без анализа фото):
+
+```bash
+DECOR_BASE=http://decor.test python scripts/scan_catalog_colors.py \
+  --work-dir .cache/scan_test --index-only --pause 0
 ```
