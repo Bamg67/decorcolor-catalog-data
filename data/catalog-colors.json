@@ -12096,7 +12096,7 @@
     "colors": [],
     "status": "review: no non-gray product pixels",
     "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D1%96%D1%80%D1%8F-%D0%B2-%D0%BF%D0%B0%D1%87%D0%BA%D0%B0%D1%85/%D0%BF%D1%96%D1%80%D1%8F-%D0%B1%D1%96%D0%BB%D0%B5-%D1%82%D0%B0-%D1%87%D0%BE%D1%80%D0%BD%D0%B5/%D0%B1%D1%96%D0%BB%D1%96-%D0%BF%D1%83%D1%85%D0%BE%D0%B2%D1%96-%D1%81%D0%BF%D1%96%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%96-%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BF%D1%96%D1%80%D1%8F-8-14%D1%81%D0%BC-100%D1%88%D1%82-detail.html",
-    "title_uk": "Білі пухові спіральні половинки пір'я 8-14см/100шт"
+    "title_uk": null
   },
   {
     "title": "Белые розы из латекса 6 см/1 шт",
@@ -24026,6 +24026,41 @@
   {
     "title": "Боа перьевое 35 - 40гр. 10-15см/2м",
     "sku": "",
+    "product_url": "https://decor-opt.com.ua/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%B1%D0%BE%D0%B0-%D0%BF%D0%B5%D1%80%D1%8C%D0%B5%D0%B2%D0%BE%D0%B5/%D0%B1%D0%BE%D0%B0-%D0%BF%D0%B5%D1%80%D1%8C%D0%B5%D0%B2%D0%BE%D0%B5-40%D0%B3%D1%80-10-15%D1%81%D0%BC-2%D0%BC-2-8240-15101-detail.html",
+    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/20261008_141351%20copy23_600x0.jpg",
+    "photo_index": 1,
+    "colors": [
+      {
+        "hex": "#4B2D2B",
+        "hue_deg": 3.8,
+        "hue_from_deg": 351.8,
+        "hue_to_deg": 15.8,
+        "hue_wraps_zero": true,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 13.9,
+        "lightness_to": 29.9,
+        "lab_hue_deg": 27.2,
+        "share": 1.0,
+        "rgb": [
+          75,
+          45,
+          43
+        ],
+        "lab": [
+          21.92,
+          13.67,
+          7.01
+        ]
+      }
+    ],
+    "status": "ok",
+    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%B1%D0%BE%D0%B0-%D0%BF%D0%B5%D1%80%D1%8C%D0%B5%D0%B2%D0%BE%D0%B5/%D0%B1%D0%BE%D0%B0-%D0%BF%D1%96%D1%80%D1%8F%D0%BD%D0%B5-%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5-35-40%D0%B3%D1%80-10-15-%D1%81%D0%BC-2-%D0%BC-15101-detail.html",
+    "title_uk": null
+  },
+  {
+    "title": "Боа перьевое 35 - 40гр. 10-15см/2м",
+    "sku": "",
     "product_url": "https://decor-opt.com.ua/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%B1%D0%BE%D0%B0-%D0%BF%D0%B5%D1%80%D1%8C%D0%B5%D0%B2%D0%BE%D0%B5/%D0%B1%D0%BE%D0%B0-%D0%BF%D0%B5%D1%80%D1%8C%D0%B5%D0%B2%D0%BE%D0%B5-40%D0%B3%D1%80-10-15%D1%81%D0%BC-2%D0%BC-2-8240-detail.html",
     "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20013%20(%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F89_600x0.jpg",
     "photo_index": 1,
@@ -24754,6 +24789,41 @@
     "status": "ok",
     "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%B1%D0%BE%D0%B0-%D0%BF%D0%B5%D1%80%D1%8C%D0%B5%D0%B2%D0%BE%D0%B5/%D0%B1%D0%BE%D0%B0-%D0%BF%D1%96%D1%80%D1%8F%D0%BD%D0%B5-%D0%B1%D1%96%D0%BB%D0%B5-120-130%D0%B3%D1%80-17-20-%D1%81%D0%BC-2-%D0%BC-detail.html",
     "title_uk": "Боа пір'яне біле 120-130гр. 17-20 см/2 м"
+  },
+  {
+    "title": "Боа перьевое белое 95-110гр. 15-19см/2м",
+    "sku": "",
+    "product_url": "https://decor-opt.com.ua/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%B1%D0%BE%D0%B0-%D0%BF%D0%B5%D1%80%D1%8C%D0%B5%D0%B2%D0%BE%D0%B5/%D0%B1%D0%BE%D0%B0-%D0%BF%D0%B5%D1%80%D1%8C%D0%B5%D0%B2%D0%BE%D0%B5-%D0%B1%D0%B5%D0%BB%D0%BE%D0%B5-110-115%D0%B3%D1%80-15-19%D1%81%D0%BC-2%D0%BC-11276-detail.html",
+    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/20181208_130112%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F_600x0.jpg",
+    "photo_index": 1,
+    "colors": [
+      {
+        "hex": "#E9E9E9",
+        "hue_deg": null,
+        "hue_from_deg": null,
+        "hue_to_deg": null,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 84.3,
+        "lightness_to": 100.0,
+        "lab_hue_deg": null,
+        "share": 1.0,
+        "rgb": [
+          233,
+          233,
+          233
+        ],
+        "lab": [
+          92.3,
+          0.0,
+          -0.01
+        ]
+      }
+    ],
+    "status": "ok",
+    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%B1%D0%BE%D0%B0-%D0%BF%D0%B5%D1%80%D1%8C%D0%B5%D0%B2%D0%BE%D0%B5/%D0%B1%D0%BE%D0%B0-%D0%BF%D0%B5%D1%80%D1%8C%D0%B5%D0%B2%D0%BE%D0%B5-%D0%B1%D0%B5%D0%BB%D0%BE%D0%B5-110-115%D0%B3%D1%80-15-19%D1%81%D0%BC-2%D0%BC-11276-detail.html",
+    "title_uk": null
   },
   {
     "title": "Боа перьевое кашемировое страусиновое 8-10см/2м",
@@ -41400,122 +41470,6 @@
     "title_uk": "Намистини D 12 мм на волосіні 0,5 кг"
   },
   {
-    "title": "Бусы D 12 мм С29912 на леске 0,5 кг",
-    "sku": "",
-    "product_url": "https://decor-opt.com.ua/novinki/%D0%BA-%D1%81%D0%B2%D0%B0%D0%B4%D0%B5%D0%B1%D0%BD%D0%BE%D0%BC%D1%83-%D1%83%D0%BA%D1%80%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D1%8E/%D0%B1%D1%83%D1%81%D1%8B-d-12-%D0%BC%D0%BC-%D1%8129912-%D0%BD%D0%B0-%D0%BB%D0%B5%D1%81%D0%BA%D0%B5-0,5-%D0%BA%D0%B3-detail.html",
-    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/20240719_142546%20(%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)_600x0.jpg",
-    "photo_index": 1,
-    "colors": [
-      {
-        "hex": "#F4F3F1",
-        "hue_deg": null,
-        "hue_from_deg": null,
-        "hue_to_deg": null,
-        "hue_wraps_zero": false,
-        "delta_e_likely": 10.0,
-        "delta_e_review": 15.0,
-        "lightness_from": 87.8,
-        "lightness_to": 100.0,
-        "lab_hue_deg": null,
-        "share": 0.606,
-        "rgb": [
-          244,
-          243,
-          241
-        ],
-        "lab": [
-          95.82,
-          0.01,
-          1.07
-        ]
-      },
-      {
-        "hex": "#746555",
-        "hue_deg": 31.0,
-        "hue_from_deg": 19.0,
-        "hue_to_deg": 43.0,
-        "hue_wraps_zero": false,
-        "delta_e_likely": 10.0,
-        "delta_e_review": 15.0,
-        "lightness_from": 35.8,
-        "lightness_to": 51.8,
-        "lab_hue_deg": 73.6,
-        "share": 0.394,
-        "rgb": [
-          116,
-          101,
-          85
-        ],
-        "lab": [
-          43.77,
-          3.25,
-          11.01
-        ]
-      }
-    ],
-    "status": "ok",
-    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BA-%D1%81%D0%B2%D0%B0%D0%B4%D0%B5%D0%B1%D0%BD%D0%BE%D0%BC%D1%83-%D1%83%D0%BA%D1%80%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D1%8E/%D0%BD%D0%B0%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%B8-d-%D0%BD%D0%B0-%D0%B2%D0%BE%D0%BB%D0%BE%D1%81%D1%96%D0%BD%D1%96-12-%D0%BC%D0%BC-%D1%810427-0,5-%D0%BA%D0%B3-detail.html",
-    "title_uk": "Намистини D на волосіні 12 мм С09912 0,5 кг"
-  },
-  {
-    "title": "Бусы D 12 мм С29912 на леске 0,5 кг",
-    "sku": "",
-    "product_url": "https://decor-opt.com.ua/novinki/busy-polovinki-glazki-nosiki-akrilovye-tsvety/%D1%86%D0%B5%D0%BB%D1%8B%D0%B5-%D0%B1%D1%83%D1%81%D0%B8%D0%BD%D1%8B/%D0%B1%D1%83%D1%81%D0%B8%D0%BD%D1%8B-500%D0%B3%D1%80/%D0%B1%D1%83%D1%81%D1%8B-d-12-%D0%BC%D0%BC-%D1%8129912-%D0%BD%D0%B0-%D0%BB%D0%B5%D1%81%D0%BA%D0%B5-0,5-%D0%BA%D0%B3-detail.html",
-    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/20240719_142546%20(%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)_600x0.jpg",
-    "photo_index": 1,
-    "colors": [
-      {
-        "hex": "#F4F3F1",
-        "hue_deg": null,
-        "hue_from_deg": null,
-        "hue_to_deg": null,
-        "hue_wraps_zero": false,
-        "delta_e_likely": 10.0,
-        "delta_e_review": 15.0,
-        "lightness_from": 87.8,
-        "lightness_to": 100.0,
-        "lab_hue_deg": null,
-        "share": 0.606,
-        "rgb": [
-          244,
-          243,
-          241
-        ],
-        "lab": [
-          95.82,
-          0.01,
-          1.07
-        ]
-      },
-      {
-        "hex": "#746555",
-        "hue_deg": 31.0,
-        "hue_from_deg": 19.0,
-        "hue_to_deg": 43.0,
-        "hue_wraps_zero": false,
-        "delta_e_likely": 10.0,
-        "delta_e_review": 15.0,
-        "lightness_from": 35.8,
-        "lightness_to": 51.8,
-        "lab_hue_deg": 73.6,
-        "share": 0.394,
-        "rgb": [
-          116,
-          101,
-          85
-        ],
-        "lab": [
-          43.77,
-          3.25,
-          11.01
-        ]
-      }
-    ],
-    "status": "ok",
-    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/busy-polovinki-glazki-nosiki-akrilovye-tsvety/%D1%86%D0%B5%D0%BB%D1%8B%D0%B5-%D0%B1%D1%83%D1%81%D0%B8%D0%BD%D1%8B/%D0%B1%D1%83%D1%81%D0%B8%D0%BD%D1%8B-500%D0%B3%D1%80/%D0%BD%D0%B0%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%B8-d-%D0%BD%D0%B0-%D0%B2%D0%BE%D0%BB%D0%BE%D1%81%D1%96%D0%BD%D1%96-12-%D0%BC%D0%BC-%D1%810427-0,5-%D0%BA%D0%B3-detail.html",
-    "title_uk": "Намистини D на волосіні 12 мм С09912 0,5 кг"
-  },
-  {
     "title": "Бусы D под жемчуг на леске 8мм/500гр",
     "sku": "",
     "product_url": "https://decor-opt.com.ua/novinki/busy-polovinki-glazki-nosiki-akrilovye-tsvety/%D1%86%D0%B5%D0%BB%D1%8B%D0%B5-%D0%B1%D1%83%D1%81%D0%B8%D0%BD%D1%8B/%D0%B1%D1%83%D1%81%D0%B8%D0%BD%D1%8B-500%D0%B3%D1%80/%D0%B1%D1%83%D1%81%D1%8B-%D0%BD%D0%B0-%D0%BB%D0%B5%D1%81%D0%BA%D0%B5-10%D0%BC%D0%BC-%D1%84%D0%B8%D0%BE%D0%BB%D0%B5%D1%82%D0%BE%D0%B2%D1%8B%D0%B5-0,5%D0%BA%D0%B3-10683-10686-detail.html",
@@ -51683,6 +51637,122 @@
     "status": "ok",
     "product_url_uk": "https://decor-opt.com.ua/uk/novinki/busy-polovinki-glazki-nosiki-akrilovye-tsvety/%D1%86%D0%B5%D0%BB%D1%8B%D0%B5-%D0%B1%D1%83%D1%81%D0%B8%D0%BD%D1%8B/%D0%B1%D1%83%D1%81%D0%B8%D0%BD%D1%8B-500%D0%B3%D1%80/%D0%BF%D0%B5%D1%80%D0%BB%D0%B8%D0%BD%D0%B8-%D0%BD%D0%B0-%D0%B2%D0%BE%D0%BB%D0%BE%D1%81%D1%96%D0%BD%D1%96-10-%D0%BC%D0%BC-0,5-%D0%BA%D0%B3-2-detail.html",
     "title_uk": "Перлини на волосіні 10 мм 0,5 кг"
+  },
+  {
+    "title": "Бусы под жемчуг D 12мм на леске 0,5 кг С04207",
+    "sku": "",
+    "product_url": "https://decor-opt.com.ua/novinki/%D0%BA-%D1%81%D0%B2%D0%B0%D0%B4%D0%B5%D0%B1%D0%BD%D0%BE%D0%BC%D1%83-%D1%83%D0%BA%D1%80%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D1%8E/%D0%B1%D1%83%D1%81%D1%8B-%D0%BF%D0%BE%D0%B4-%D0%B6%D0%B5%D0%BC%D1%87%D1%83%D0%B3-d-12%D0%BC%D0%BC-%D0%BD%D0%B0-%D0%BB%D0%B5%D1%81%D0%BA%D0%B5-0,5-%D0%BA%D0%B3-%D1%8104207-detail.html",
+    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/20240719_142546%20(%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)_600x0.jpg",
+    "photo_index": 1,
+    "colors": [
+      {
+        "hex": "#F4F3F1",
+        "hue_deg": null,
+        "hue_from_deg": null,
+        "hue_to_deg": null,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 87.8,
+        "lightness_to": 100.0,
+        "lab_hue_deg": null,
+        "share": 0.606,
+        "rgb": [
+          244,
+          243,
+          241
+        ],
+        "lab": [
+          95.82,
+          0.01,
+          1.07
+        ]
+      },
+      {
+        "hex": "#746555",
+        "hue_deg": 31.0,
+        "hue_from_deg": 19.0,
+        "hue_to_deg": 43.0,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 35.8,
+        "lightness_to": 51.8,
+        "lab_hue_deg": 73.6,
+        "share": 0.394,
+        "rgb": [
+          116,
+          101,
+          85
+        ],
+        "lab": [
+          43.77,
+          3.25,
+          11.01
+        ]
+      }
+    ],
+    "status": "ok",
+    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BA-%D1%81%D0%B2%D0%B0%D0%B4%D0%B5%D0%B1%D0%BD%D0%BE%D0%BC%D1%83-%D1%83%D0%BA%D1%80%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D1%8E/%D0%BD%D0%B0%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%B8-d-%D0%BD%D0%B0-%D0%B2%D0%BE%D0%BB%D0%BE%D1%81%D1%96%D0%BD%D1%96-12%D0%BC%D0%BC-0,5%D0%BA%D0%B3-%D1%8104207-detail.html",
+    "title_uk": null
+  },
+  {
+    "title": "Бусы под жемчуг D 12мм на леске 0,5 кг С04207",
+    "sku": "",
+    "product_url": "https://decor-opt.com.ua/novinki/busy-polovinki-glazki-nosiki-akrilovye-tsvety/%D1%86%D0%B5%D0%BB%D1%8B%D0%B5-%D0%B1%D1%83%D1%81%D0%B8%D0%BD%D1%8B/%D0%B1%D1%83%D1%81%D0%B8%D0%BD%D1%8B-500%D0%B3%D1%80/%D0%B1%D1%83%D1%81%D1%8B-%D0%BF%D0%BE%D0%B4-%D0%B6%D0%B5%D0%BC%D1%87%D1%83%D0%B3-d-12%D0%BC%D0%BC-%D0%BD%D0%B0-%D0%BB%D0%B5%D1%81%D0%BA%D0%B5-0,5-%D0%BA%D0%B3-%D1%8104207-detail.html",
+    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/20240719_142546%20(%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)_600x0.jpg",
+    "photo_index": 1,
+    "colors": [
+      {
+        "hex": "#F4F3F1",
+        "hue_deg": null,
+        "hue_from_deg": null,
+        "hue_to_deg": null,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 87.8,
+        "lightness_to": 100.0,
+        "lab_hue_deg": null,
+        "share": 0.606,
+        "rgb": [
+          244,
+          243,
+          241
+        ],
+        "lab": [
+          95.82,
+          0.01,
+          1.07
+        ]
+      },
+      {
+        "hex": "#746555",
+        "hue_deg": 31.0,
+        "hue_from_deg": 19.0,
+        "hue_to_deg": 43.0,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 35.8,
+        "lightness_to": 51.8,
+        "lab_hue_deg": 73.6,
+        "share": 0.394,
+        "rgb": [
+          116,
+          101,
+          85
+        ],
+        "lab": [
+          43.77,
+          3.25,
+          11.01
+        ]
+      }
+    ],
+    "status": "ok",
+    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/busy-polovinki-glazki-nosiki-akrilovye-tsvety/%D1%86%D0%B5%D0%BB%D1%8B%D0%B5-%D0%B1%D1%83%D1%81%D0%B8%D0%BD%D1%8B/%D0%B1%D1%83%D1%81%D0%B8%D0%BD%D1%8B-500%D0%B3%D1%80/%D0%BD%D0%B0%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%B8-d-%D0%BD%D0%B0-%D0%B2%D0%BE%D0%BB%D0%BE%D1%81%D1%96%D0%BD%D1%96-12%D0%BC%D0%BC-0,5%D0%BA%D0%B3-%D1%8104207-detail.html",
+    "title_uk": null
   },
   {
     "title": "Бусы под жемчуг матовые 30мм/500 гр",
@@ -63873,76 +63943,6 @@
     "status": "ok",
     "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%B4%D0%B5%D0%BA%D0%BE%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5-%D0%BE%D0%B2%D0%BE%D1%89%D0%B8,-%D1%84%D1%80%D1%83%D0%BA%D1%82%D1%8B,-%D1%8F%D0%B3%D0%BE%D0%B4%D1%8B-%D0%B8-%D0%B3%D1%80%D0%B8%D0%B1%D1%8B/%D1%8F%D0%B3%D0%BE%D0%B4%D1%8B-%D0%BD%D0%B0-%D0%B2%D0%B5%D1%82%D0%BA%D0%B5/%D0%B3%D1%96%D0%BB%D0%BA%D0%B0-%D1%96%D0%B7-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%BE-%D0%BE%D1%80%D0%B0%D0%BD%D0%B6%D0%B5%D0%B2%D0%B8%D0%BC%D0%B8-%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8-60%D1%81%D0%BC-%D1%8130376-detail.html",
     "title_uk": "Гілка із зелено-оранжевими мандаринами 60см С30376"
-  },
-  {
-    "title": "Ветка с золотыми пенопластовыми ягодами 20см С30344",
-    "sku": "",
-    "product_url": "https://decor-opt.com.ua/novinki/%D0%B4%D0%B5%D0%BA%D0%BE%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5-%D0%BE%D0%B2%D0%BE%D1%89%D0%B8,-%D1%84%D1%80%D1%83%D0%BA%D1%82%D1%8B,-%D1%8F%D0%B3%D0%BE%D0%B4%D1%8B-%D0%B8-%D0%B3%D1%80%D0%B8%D0%B1%D1%8B/%D1%8F%D0%B3%D0%BE%D0%B4%D1%8B-%D0%BD%D0%B0-%D0%B2%D0%B5%D1%82%D0%BA%D0%B5/%D0%B2%D0%B5%D1%82%D0%BA%D0%B0-%D1%81-%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D1%8B%D0%BC%D0%B8-%D0%BF%D0%B5%D0%BD%D0%BE%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%BC%D0%B8-%D1%8F%D0%B3%D0%BE%D0%B4%D0%B0%D0%BC%D0%B8-20%D1%81%D0%BC-%D1%8130344-detail.html",
-    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/20251008_161608%20copy_600x0.jpg",
-    "photo_index": 1,
-    "colors": [
-      {
-        "hex": "#AF9061",
-        "hue_deg": 36.2,
-        "hue_from_deg": 24.2,
-        "hue_to_deg": 48.2,
-        "hue_wraps_zero": false,
-        "delta_e_likely": 10.0,
-        "delta_e_review": 15.0,
-        "lightness_from": 53.7,
-        "lightness_to": 69.7,
-        "lab_hue_deg": 80.0,
-        "share": 1.0,
-        "rgb": [
-          175,
-          144,
-          97
-        ],
-        "lab": [
-          61.74,
-          5.13,
-          29.25
-        ]
-      }
-    ],
-    "status": "ok",
-    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%B4%D0%B5%D0%BA%D0%BE%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5-%D0%BE%D0%B2%D0%BE%D1%89%D0%B8,-%D1%84%D1%80%D1%83%D0%BA%D1%82%D1%8B,-%D1%8F%D0%B3%D0%BE%D0%B4%D1%8B-%D0%B8-%D0%B3%D1%80%D0%B8%D0%B1%D1%8B/%D1%8F%D0%B3%D0%BE%D0%B4%D1%8B-%D0%BD%D0%B0-%D0%B2%D0%B5%D1%82%D0%BA%D0%B5/%D0%B3%D1%96%D0%BB%D0%BA%D0%B0-%D1%96%D0%B7-%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B8%D0%BC%D0%B8-%D0%BF%D1%96%D0%BD%D0%BE%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%BE%D0%B2%D0%B8%D0%BC%D0%B8-%D1%8F%D0%B3%D0%BE%D0%B4%D0%B0%D0%BC%D0%B8-20%D1%81%D0%BC-%D1%8130344-detail.html",
-    "title_uk": "Гілка із золотими пінопластовими ягодами 20см С30344"
-  },
-  {
-    "title": "Ветка с золотыми пенопластовыми ягодами 20см С30344",
-    "sku": "",
-    "product_url": "https://decor-opt.com.ua/novinki/%D0%BA-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%D0%B4%D0%BD%D0%B8%D0%BC-%D0%BF%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA%D0%B0%D0%BC/zimnij-dekor/%D0%B2%D0%B5%D1%82%D0%BA%D0%B0-%D1%81-%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D1%8B%D0%BC%D0%B8-%D0%BF%D0%B5%D0%BD%D0%BE%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%BC%D0%B8-%D1%8F%D0%B3%D0%BE%D0%B4%D0%B0%D0%BC%D0%B8-20%D1%81%D0%BC-%D1%8130344-detail.html",
-    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/20251008_161608%20copy_600x0.jpg",
-    "photo_index": 1,
-    "colors": [
-      {
-        "hex": "#AF9061",
-        "hue_deg": 36.2,
-        "hue_from_deg": 24.2,
-        "hue_to_deg": 48.2,
-        "hue_wraps_zero": false,
-        "delta_e_likely": 10.0,
-        "delta_e_review": 15.0,
-        "lightness_from": 53.7,
-        "lightness_to": 69.7,
-        "lab_hue_deg": 80.0,
-        "share": 1.0,
-        "rgb": [
-          175,
-          144,
-          97
-        ],
-        "lab": [
-          61.74,
-          5.13,
-          29.25
-        ]
-      }
-    ],
-    "status": "ok",
-    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BA-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%D0%B4%D0%BD%D0%B8%D0%BC-%D0%BF%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA%D0%B0%D0%BC/zimnij-dekor/%D0%B3%D1%96%D0%BB%D0%BA%D0%B0-%D1%96%D0%B7-%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B8%D0%BC%D0%B8-%D0%BF%D1%96%D0%BD%D0%BE%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%BE%D0%B2%D0%B8%D0%BC%D0%B8-%D1%8F%D0%B3%D0%BE%D0%B4%D0%B0%D0%BC%D0%B8-20%D1%81%D0%BC-%D1%8130344-detail.html",
-    "title_uk": "Гілка із золотими пінопластовими ягодами 20см С30344"
   },
   {
     "title": "Ветка с красными гранатами 60см С30377",
@@ -87424,122 +87424,6 @@
     "title_uk": "Голова напіврозкритої півонії з тичинками 5-5,5 см"
   },
   {
-    "title": "Голова пуансетии 15см",
-    "sku": "",
-    "product_url": "https://decor-opt.com.ua/novinki/%D0%BA-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%D0%B4%D0%BD%D0%B8%D0%BC-%D0%BF%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA%D0%B0%D0%BC/zimnij-dekor/%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0-%D0%BF%D1%83%D0%B0%D0%BD%D1%81%D0%B5%D1%82%D0%B8%D0%B8-15%D1%81%D0%BC-detail.html",
-    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/20210329_145259%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F_600x0.jpg",
-    "photo_index": 1,
-    "colors": [
-      {
-        "hex": "#C2908B",
-        "hue_deg": 5.5,
-        "hue_from_deg": 353.5,
-        "hue_to_deg": 17.5,
-        "hue_wraps_zero": true,
-        "delta_e_likely": 10.0,
-        "delta_e_review": 15.0,
-        "lightness_from": 56.5,
-        "lightness_to": 72.5,
-        "lab_hue_deg": 29.5,
-        "share": 0.8514,
-        "rgb": [
-          194,
-          144,
-          139
-        ],
-        "lab": [
-          64.49,
-          17.98,
-          10.17
-        ]
-      },
-      {
-        "hex": "#C3A891",
-        "hue_deg": 27.6,
-        "hue_from_deg": 15.6,
-        "hue_to_deg": 39.6,
-        "hue_wraps_zero": false,
-        "delta_e_likely": 10.0,
-        "delta_e_review": 15.0,
-        "lightness_from": 62.6,
-        "lightness_to": 78.6,
-        "lab_hue_deg": 68.2,
-        "share": 0.1486,
-        "rgb": [
-          195,
-          168,
-          145
-        ],
-        "lab": [
-          70.63,
-          6.2,
-          15.49
-        ]
-      }
-    ],
-    "status": "ok",
-    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BA-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%D0%B4%D0%BD%D0%B8%D0%BC-%D0%BF%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA%D0%B0%D0%BC/zimnij-dekor/%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0-%D0%BF%D1%83%D0%B0%D0%BD%D1%81%D0%B5%D1%82%D0%B8%D0%B8-15%D1%81%D0%BC-detail.html",
-    "title_uk": "Голова пуансетії 15см"
-  },
-  {
-    "title": "Голова пуансетии 15см",
-    "sku": "",
-    "product_url": "https://decor-opt.com.ua/novinki/iskusstvennye-tsvety/golovy-tsvetov/golovy-tkanevykh-tsvetov/%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0-%D0%BF%D1%83%D0%B0%D0%BD%D1%81%D0%B5%D1%82%D0%B8%D0%B8-15%D1%81%D0%BC-detail.html",
-    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/20210329_145259%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F_600x0.jpg",
-    "photo_index": 1,
-    "colors": [
-      {
-        "hex": "#C2908B",
-        "hue_deg": 5.5,
-        "hue_from_deg": 353.5,
-        "hue_to_deg": 17.5,
-        "hue_wraps_zero": true,
-        "delta_e_likely": 10.0,
-        "delta_e_review": 15.0,
-        "lightness_from": 56.5,
-        "lightness_to": 72.5,
-        "lab_hue_deg": 29.5,
-        "share": 0.8514,
-        "rgb": [
-          194,
-          144,
-          139
-        ],
-        "lab": [
-          64.49,
-          17.98,
-          10.17
-        ]
-      },
-      {
-        "hex": "#C3A891",
-        "hue_deg": 27.6,
-        "hue_from_deg": 15.6,
-        "hue_to_deg": 39.6,
-        "hue_wraps_zero": false,
-        "delta_e_likely": 10.0,
-        "delta_e_review": 15.0,
-        "lightness_from": 62.6,
-        "lightness_to": 78.6,
-        "lab_hue_deg": 68.2,
-        "share": 0.1486,
-        "rgb": [
-          195,
-          168,
-          145
-        ],
-        "lab": [
-          70.63,
-          6.2,
-          15.49
-        ]
-      }
-    ],
-    "status": "ok",
-    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/iskusstvennye-tsvety/golovy-tsvetov/golovy-tkanevykh-tsvetov/%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0-%D0%BF%D1%83%D0%B0%D0%BD%D1%81%D0%B5%D1%82%D0%B8%D0%B8-15%D1%81%D0%BC-detail.html",
-    "title_uk": "Голова пуансетії 15см"
-  },
-  {
     "title": "Голова пуансетии 20см/1шт",
     "sku": "",
     "product_url": "https://decor-opt.com.ua/novinki/iskusstvennye-tsvety/golovy-tsvetov/golovy-tkanevykh-tsvetov/%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0-%D0%BF%D1%83%D0%B0%D0%BD%D1%81%D0%B5%D1%82%D0%B8%D0%B8-20%D1%81%D0%BC-1%D1%88%D1%82-detail.html",
@@ -107167,87 +107051,6 @@
     "title_uk": "Обруч пластиковий мікс 0,8см для ручної роботи 1шт"
   },
   {
-    "title": "Заготовка обруч пластмассовый микс с репсом 10мм для ручной работы",
-    "sku": "",
-    "product_url": "https://decor-opt.com.ua/novinki/zagotovki-dlya-ruchnoj-raboty/%D0%B7%D0%B0%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BE%D0%B1%D1%80%D1%83%D1%87-%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%BC%D0%B0%D1%81%D1%81%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BC%D0%B8%D0%BA%D1%81-%D1%81-%D1%80%D0%B5%D0%BF%D1%81%D0%BE%D0%BC-10%D0%BC%D0%BC-%D0%B4%D0%BB%D1%8F-%D1%80%D1%83%D1%87%D0%BD%D0%BE%D0%B9-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-detail.html",
-    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20003%20(%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F891_600x0.jpg",
-    "photo_index": 1,
-    "colors": [
-      {
-        "hex": "#C8584D",
-        "hue_deg": 5.4,
-        "hue_from_deg": 353.4,
-        "hue_to_deg": 17.4,
-        "hue_wraps_zero": true,
-        "delta_e_likely": 10.0,
-        "delta_e_review": 15.0,
-        "lightness_from": 43.6,
-        "lightness_to": 59.6,
-        "lab_hue_deg": 32.7,
-        "share": 0.4307,
-        "rgb": [
-          200,
-          88,
-          77
-        ],
-        "lab": [
-          51.63,
-          43.88,
-          28.15
-        ]
-      },
-      {
-        "hex": "#DDB2BB",
-        "hue_deg": 347.4,
-        "hue_from_deg": 335.4,
-        "hue_to_deg": 359.4,
-        "hue_wraps_zero": false,
-        "delta_e_likely": 10.0,
-        "delta_e_review": 15.0,
-        "lightness_from": 68.6,
-        "lightness_to": 84.6,
-        "lab_hue_deg": 5.3,
-        "share": 0.3362,
-        "rgb": [
-          221,
-          178,
-          187
-        ],
-        "lab": [
-          76.6,
-          16.88,
-          1.57
-        ]
-      },
-      {
-        "hex": "#B17E96",
-        "hue_deg": 331.8,
-        "hue_from_deg": 319.8,
-        "hue_to_deg": 343.8,
-        "hue_wraps_zero": false,
-        "delta_e_likely": 10.0,
-        "delta_e_review": 15.0,
-        "lightness_from": 50.4,
-        "lightness_to": 66.4,
-        "lab_hue_deg": 347.5,
-        "share": 0.2332,
-        "rgb": [
-          177,
-          126,
-          150
-        ],
-        "lab": [
-          58.38,
-          23.54,
-          -5.2
-        ]
-      }
-    ],
-    "status": "ok",
-    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/zagotovki-dlya-ruchnoj-raboty/%D0%B7%D0%B0%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%BC%D0%B0%D1%81%D0%BE%D0%B2%D0%B8%D0%B9-%D0%BE%D0%B1%D1%80%D1%83%D1%87-%D0%BC%D1%96%D0%BA%D1%81-%D0%B7-%D1%80%D0%B5%D0%BF%D1%81%D0%BE%D0%BC-10%D0%BC%D0%BC-%D0%B4%D0%BB%D1%8F-%D1%80%D1%83%D1%87%D0%BD%D0%BE%D1%97-%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8-detail.html",
-    "title_uk": "Заготовка пластмасовий обруч мікс з репсом 10мм для ручної роботи."
-  },
-  {
     "title": "Заготовка обруч пластмассовый черный с репсом 10мм для ручной работы",
     "sku": "",
     "product_url": "https://decor-opt.com.ua/novinki/zagotovki-dlya-ruchnoj-raboty/%D0%B7%D0%B0%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BE%D0%B1%D1%80%D1%83%D1%87-%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%BC%D0%B0%D1%81%D1%81%D0%BE%D0%B2%D1%8B%D0%B9-%D1%87%D0%B5%D1%80%D0%BD%D1%8B%D0%B9-%D1%81-%D1%80%D0%B5%D0%BF%D1%81%D0%BE%D0%BC-10%D0%BC%D0%BC-%D0%B4%D0%BB%D1%8F-%D1%80%D1%83%D1%87%D0%BD%D0%BE%D0%B9-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-detail.html",
@@ -110550,7 +110353,7 @@
     "colors": [],
     "status": "review: no non-gray product pixels",
     "product_url_uk": "https://decor-opt.com.ua/uk/novinki/biser-kitajskij/%D0%B4%D0%BB%D1%8F-%D0%B1%D0%B8%D1%81%D0%B5%D1%80%D0%BE%D0%BF%D0%BB%D0%B5%D1%82%D0%B5%D0%BD%D0%B8%D1%8F/%D0%B8%D0%B3%D0%BB%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%80%D1%83%D0%BA%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%8F-10%D1%81%D0%BC-0,5%D0%BC%D0%BC-1-%D1%88%D1%82-12765-15642-15644-detail.html",
-    "title_uk": "Голка для рукоділля 10см/1,6мм 1 шт"
+    "title_uk": null
   },
   {
     "title": "Игла для рукоделия 10см/1,6мм 1 шт",
@@ -110561,7 +110364,7 @@
     "colors": [],
     "status": "review: no non-gray product pixels",
     "product_url_uk": "https://decor-opt.com.ua/uk/novinki/biser-kitajskij/%D0%B8%D0%B3%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%B2%D0%BE%D0%BB%D0%BE%D1%81,-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B/%D0%B8%D0%B3%D0%BB%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%80%D1%83%D0%BA%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%8F-10%D1%81%D0%BC-0,5%D0%BC%D0%BC-1-%D1%88%D1%82-12765-15642-15644-detail.html",
-    "title_uk": "Голка для рукоділля 10см/1,6мм 1 шт"
+    "title_uk": null
   },
   {
     "title": "Игла для рукоделия 12,5см/1,6мм 1 шт",
@@ -111466,7 +111269,7 @@
     "colors": [],
     "status": "review: no non-gray product pixels",
     "product_url_uk": "https://decor-opt.com.ua/uk/novinki/biser-kitajskij/%D0%B8%D0%B3%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%B2%D0%BE%D0%BB%D0%BE%D1%81,-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B/%D0%B8%D0%B3%D0%BB%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%80%D1%83%D0%BA%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%8F-18%D1%81%D0%BC-1,2%D0%BC%D0%BC-1-%D1%88%D1%82-12766-12767-detail.html",
-    "title_uk": "Голка для рукоділля 18см/1,2мм 1 шт"
+    "title_uk": null
   },
   {
     "title": "Игла для рукоделия 23см/0,8мм 1 шт",
@@ -111477,7 +111280,7 @@
     "colors": [],
     "status": "review: no non-gray product pixels",
     "product_url_uk": "https://decor-opt.com.ua/uk/novinki/biser-kitajskij/%D0%B8%D0%B3%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%B2%D0%BE%D0%BB%D0%BE%D1%81,-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B/%D0%B8%D0%B3%D0%BB%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%80%D1%83%D0%BA%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%8F-23%D1%81%D0%BC-0,9%D0%BC%D0%BC-1-%D1%88%D1%82-13310-13313-detail.html",
-    "title_uk": "Голка для рукоділля 23см/0,9мм 1 шт"
+    "title_uk": null
   },
   {
     "title": "Игла для рукоделия 23см/0,9мм 1 шт",
@@ -111488,7 +111291,7 @@
     "colors": [],
     "status": "review: no non-gray product pixels",
     "product_url_uk": "https://decor-opt.com.ua/uk/novinki/biser-kitajskij/%D0%B8%D0%B3%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%B2%D0%BE%D0%BB%D0%BE%D1%81,-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B/%D0%B8%D0%B3%D0%BB%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%80%D1%83%D0%BA%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%8F-23%D1%81%D0%BC-0,9%D0%BC%D0%BC-1-%D1%88%D1%82-13310-detail.html",
-    "title_uk": "Голка для рукоділля 23см/0,9мм 1 шт"
+    "title_uk": null
   },
   {
     "title": "Игла для рукоделия 23см/1,2мм 1 шт",
@@ -111499,7 +111302,7 @@
     "colors": [],
     "status": "review: no non-gray product pixels",
     "product_url_uk": "https://decor-opt.com.ua/uk/novinki/biser-kitajskij/%D0%B8%D0%B3%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%B2%D0%BE%D0%BB%D0%BE%D1%81,-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B/%D0%B8%D0%B3%D0%BB%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%80%D1%83%D0%BA%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%8F-23%D1%81%D0%BC-1,2%D0%BC%D0%BC-1-%D1%88%D1%82-detail.html",
-    "title_uk": "Голка для рукоділля 23см/1,2мм 1 шт"
+    "title_uk": null
   },
   {
     "title": "Игла для рукоделия 4,5см/0,75мм /30-32 шт",
@@ -112090,7 +111893,7 @@
     "colors": [],
     "status": "review: no non-gray product pixels",
     "product_url_uk": "https://decor-opt.com.ua/uk/novinki/biser-kitajskij/%D0%B8%D0%B3%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%B2%D0%BE%D0%BB%D0%BE%D1%81,-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B/%D0%B8%D0%B3%D0%BB%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%80%D1%83%D0%BA%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%8F-9,0%D1%81%D0%BC-1,2%D0%BC%D0%BC-1-%D1%88%D1%82-detail.html",
-    "title_uk": "Голка для рукоділля 9,0см/1,14мм 1 шт"
+    "title_uk": null
   },
   {
     "title": "Игла для фетра 6 см/1,25 мм",
@@ -118836,87 +118639,6 @@
     "title_uk": "Карабін 14х7мм/1шт"
   },
   {
-    "title": "Карабин лобстер 44х16,5х18мм/1шт",
-    "sku": "",
-    "product_url": "https://decor-opt.com.ua/novinki/%D1%84%D1%83%D1%80%D0%BD%D0%B8%D1%82%D1%83%D1%80%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%81%D1%83%D0%BC%D0%BE%D1%87%D0%B5%D0%BA/%D1%84%D1%83%D1%80%D0%BD%D0%B8%D1%82%D1%83%D1%80%D0%B0-%D1%80%D1%83%D1%87%D0%BA%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%81%D1%83%D0%BC%D0%BA%D0%B8-%D0%B8%D0%B7-%D0%B6%D0%B5%D0%BC%D1%87%D1%83%D0%B6%D0%B8%D0%BD-%D1%81-%D0%BA%D0%B0%D1%80%D0%B0%D0%B1%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8-30%D1%81%D0%BC-15944-15949-15950-15954-15955-16117-16121-16612-16613-detail.html",
-    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/20230705_135431%20(%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)_600x0.jpg",
-    "photo_index": 1,
-    "colors": [
-      {
-        "hex": "#9F8264",
-        "hue_deg": 30.5,
-        "hue_from_deg": 18.5,
-        "hue_to_deg": 42.5,
-        "hue_wraps_zero": false,
-        "delta_e_likely": 10.0,
-        "delta_e_review": 15.0,
-        "lightness_from": 48.3,
-        "lightness_to": 64.3,
-        "lab_hue_deg": 72.7,
-        "share": 0.7056,
-        "rgb": [
-          159,
-          130,
-          100
-        ],
-        "lab": [
-          56.31,
-          6.42,
-          20.61
-        ]
-      },
-      {
-        "hex": "#EFEAE2",
-        "hue_deg": null,
-        "hue_from_deg": null,
-        "hue_to_deg": null,
-        "hue_wraps_zero": false,
-        "delta_e_likely": 10.0,
-        "delta_e_review": 15.0,
-        "lightness_from": 85.0,
-        "lightness_to": 100.0,
-        "lab_hue_deg": 87.8,
-        "share": 0.174,
-        "rgb": [
-          239,
-          234,
-          226
-        ],
-        "lab": [
-          92.95,
-          0.18,
-          4.81
-        ]
-      },
-      {
-        "hex": "#2D2725",
-        "hue_deg": null,
-        "hue_from_deg": null,
-        "hue_to_deg": null,
-        "hue_wraps_zero": false,
-        "delta_e_likely": 10.0,
-        "delta_e_review": 15.0,
-        "lightness_from": 8.1,
-        "lightness_to": 24.1,
-        "lab_hue_deg": null,
-        "share": 0.1204,
-        "rgb": [
-          45,
-          39,
-          37
-        ],
-        "lab": [
-          16.07,
-          2.52,
-          2.26
-        ]
-      }
-    ],
-    "status": "ok",
-    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D1%84%D1%83%D1%80%D0%BD%D1%96%D1%82%D1%83%D1%80%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%81%D1%83%D0%BC%D0%BE%D0%BA/%D0%BA%D0%B0%D1%80%D0%B0%D0%B1%D1%96%D0%BD-%D0%BB%D0%BE%D0%B1%D1%81%D1%82%D0%B5%D1%80-44%D1%8516,5%D1%8518%D0%BC%D0%BC-1%D1%88%D1%82-detail.html",
-    "title_uk": "Карабін лобстер 44х16,5х18мм/1шт"
-  },
-  {
     "title": "Карабин овальный для сумки золотого цвета 2,95х2,1см/1шт",
     "sku": "",
     "product_url": "https://decor-opt.com.ua/novinki/%D1%84%D1%83%D1%80%D0%BD%D0%B8%D1%82%D1%83%D1%80%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%81%D1%83%D0%BC%D0%BE%D1%87%D0%B5%D0%BA/%D0%BA%D0%B0%D1%80%D0%B0%D0%B1%D0%B8%D0%BD-%D0%BE%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%B4%D0%BB%D1%8F-%D1%81%D1%83%D0%BC%D0%BA%D0%B8-%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B3%D0%BE-%D1%86%D0%B2%D0%B5%D1%82%D0%B0-2,6%D1%852,2%D1%81%D0%BC-1%D1%88%D1%82-detail.html",
@@ -121649,7 +121371,7 @@
     "colors": [],
     "status": "review: no non-gray product pixels",
     "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B,-%D0%BA%D0%BB%D0%B5%D0%B9,-%D0%BA%D0%BB%D0%B5%D0%B5%D0%B2%D0%BE%D0%B9-%D0%BF%D0%B8%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82,-%D1%81%D0%BA%D0%BE%D1%82%D1%87,-%D0%B4%D1%8B%D1%80%D0%BE%D0%BA%D0%BE%D0%BB%D1%8B/kashpo-chashechka-korichnevaya-iz-sizali-11-5-sm-detail.html",
-    "title_uk": "Клей прозр.11-12 мм (1000 г) для силіконового пістолета"
+    "title_uk": null
   },
   {
     "title": "Кленовые листья 10х9см/≈50шт С00710",
@@ -127741,7 +127463,7 @@
     "colors": [],
     "status": "review: no non-gray product pixels",
     "product_url_uk": "https://decor-opt.com.ua/uk/novinki/kontejnery-organajzery/%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B0%D0%B9%D0%B7%D0%B5%D1%80-%D0%BC%D1%96%D0%BD%D1%96-5-%D0%B2%D1%96%D0%B4%D0%B4%D1%96%D0%BB%D0%B5%D0%BD%D1%8C14,2-%D1%854%D1%852%D1%81%D0%BC-%D0%BD01323-detail.html",
-    "title_uk": "Контейнер - органайзер міні 5 відділень14,2 х4х2см Н01323"
+    "title_uk": null
   },
   {
     "title": "Конус пенопластовый h15см/ø7,5см",
@@ -148128,6 +147850,41 @@
     "title_uk": "Мереживо синє 7,0 см/10 ярдів art.in"
   },
   {
+    "title": "Кружево синее звездочка с узором 5.5см/10 ярд",
+    "sku": "",
+    "product_url": "https://decor-opt.com.ua/novinki/lenty/%D0%BA%D1%80%D1%83%D0%B6%D0%B5%D0%B2%D0%BE-1/%D0%BA%D1%80%D1%83%D0%B6%D0%B5%D0%B2%D0%BE/%D0%BA%D1%80%D1%83%D0%B6%D0%B5%D0%B2%D0%BE-%D1%81%D0%B8%D0%BD%D0%B5%D0%B5-%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%BE%D1%87%D0%BA%D0%B0-%D1%81-%D1%83%D0%B7%D0%BE%D1%80%D0%BE%D0%BC-5-5%D1%81%D0%BC-10-%D1%8F%D1%80%D0%B4-detail.html",
+    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/20261008_134809%20copy_600x0.jpg",
+    "photo_index": 1,
+    "colors": [
+      {
+        "hex": "#242C8D",
+        "hue_deg": 235.4,
+        "hue_from_deg": 223.4,
+        "hue_to_deg": 247.4,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 16.1,
+        "lightness_to": 32.1,
+        "lab_hue_deg": 299.8,
+        "share": 1.0,
+        "rgb": [
+          36,
+          44,
+          141
+        ],
+        "lab": [
+          24.13,
+          31.18,
+          -54.46
+        ]
+      }
+    ],
+    "status": "ok",
+    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/lenty/%D0%BA%D1%80%D1%83%D0%B6%D0%B5%D0%B2%D0%BE-1/%D0%BA%D1%80%D1%83%D0%B6%D0%B5%D0%B2%D0%BE/%D0%BA%D1%80%D1%83%D0%B6%D0%B5%D0%B2%D0%BE-%D1%81%D0%B8%D0%BD%D0%B5%D0%B5-8,0%D1%81%D0%BC-10-%D1%8F%D1%80%D0%B4-%D0%B0%D1%80%D1%82-%D1%81-10084-16606-16607-16619-16620-17724-detail.html",
+    "title_uk": null
+  },
+  {
     "title": "Кружево сиреневое 2,0см/50 ярд 03602",
     "sku": "",
     "product_url": "https://decor-opt.com.ua/novinki/lenty/%D0%BA%D1%80%D1%83%D0%B6%D0%B5%D0%B2%D0%BE-1/%D0%BA%D1%80%D1%83%D0%B6%D0%B5%D0%B2%D0%BE/%D0%BA%D1%80%D1%83%D0%B6%D0%B5%D0%B2%D0%BE-%D1%86%D0%B2%D0%B5%D1%82%D0%BD%D0%BE%D0%B5-2,0%D1%81%D0%BC-50-%D1%8F%D1%80%D0%B4-03602-15062-15981-detail.html",
@@ -154435,9 +154192,9 @@
     "title_uk": "Біла атласна стрічка з золотим люрексом 2,50 см 30 ярдів"
   },
   {
-    "title": "Лента атласная белая с серебряным люрексом 0,6 см 30ярд 01",
+    "title": "Лента атласная белая с серебряным люрексом 0,6 см 36ярд 01",
     "sku": "",
-    "product_url": "https://decor-opt.com.ua/novinki/lenty/atlasnye/atlasnaya-0-6-sm-s-lyureksom/%D0%BB%D0%B5%D0%BD%D1%82%D0%B0-%D0%B0%D1%82%D0%BB%D0%B0%D1%81%D0%BD%D0%B0%D1%8F-%D0%B1%D0%B5%D0%BB%D0%B0%D1%8F-%D1%81-%D1%81%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D1%8F%D0%BD%D1%8B%D0%BC-%D0%BB%D1%8E%D1%80%D0%B5%D0%BA%D1%81%D0%BE%D0%BC-0,6-%D1%81%D0%BC-306%D1%8F%D1%80%D0%B4-01-detail.html",
+    "product_url": "https://decor-opt.com.ua/novinki/lenty/atlasnye/atlasnaya-0-6-sm-s-lyureksom/%D0%BB%D0%B5%D0%BD%D1%82%D0%B0-%D0%B0%D1%82%D0%BB%D0%B0%D1%81%D0%BD%D0%B0%D1%8F-%D0%B1%D0%B5%D0%BB%D0%B0%D1%8F-%D1%81-%D1%81%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D1%8F%D0%BD%D1%8B%D0%BC-%D0%BB%D1%8E%D1%80%D0%B5%D0%BA%D1%81%D0%BE%D0%BC-0,6-%D1%81%D0%BC-36%D1%8F%D1%80%D0%B4-01-detail.html",
     "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/izobrazhenie-011-copy717_600x0.jpg",
     "photo_index": 1,
     "colors": [
@@ -154489,8 +154246,8 @@
       }
     ],
     "status": "ok",
-    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/lenty/atlasnye/atlasnaya-0-6-sm-s-lyureksom/%D0%BB%D0%B5%D0%BD%D1%82%D0%B0-%D0%B0%D1%82%D0%BB%D0%B0%D1%81%D0%BD%D0%B0%D1%8F-%D0%B1%D0%B5%D0%BB%D0%B0%D1%8F-%D1%81-%D1%81%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D1%8F%D0%BD%D1%8B%D0%BC-%D0%BB%D1%8E%D1%80%D0%B5%D0%BA%D1%81%D0%BE%D0%BC-0,6-%D1%81%D0%BC-306%D1%8F%D1%80%D0%B4-01-detail.html",
-    "title_uk": "Біла атласна стрічка зі сріблястим люрексом 0,6 см 30yard 01"
+    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/lenty/atlasnye/atlasnaya-0-6-sm-s-lyureksom/%D0%B1%D1%96%D0%BB%D0%B0-%D0%B0%D1%82%D0%BB%D0%B0%D1%81%D0%BD%D0%B0-%D1%81%D1%82%D1%80%D1%96%D1%87%D0%BA%D0%B0-%D0%B7%D1%96-%D1%81%D1%80%D1%96%D0%B1%D0%BB%D1%8F%D1%81%D1%82%D0%B8%D0%BC-%D0%BB%D1%8E%D1%80%D0%B5%D0%BA%D1%81%D0%BE%D0%BC-0,6-%D1%81%D0%BC-36yard-01-detail.html",
+    "title_uk": null
   },
   {
     "title": "Лента атласная белая с серебряным люрексом 1,0 см 36ярд",
@@ -155248,9 +155005,9 @@
     "title_uk": "Атласна бордова стрічка 0,3 см 250 ярдів арт.48"
   },
   {
-    "title": "Лента атласная бордовая 0,9 см 36ярд 83",
+    "title": "Лента атласная бордовая 0,9 см 36ярд48",
     "sku": "",
-    "product_url": "https://decor-opt.com.ua/novinki/lenty/atlasnye/atlasnaya-0-9-sm/%D0%BB%D0%B5%D0%BD%D1%82%D0%B0-%D0%B0%D1%82%D0%BB%D0%B0%D1%81%D0%BD%D0%B0%D1%8F-%D0%B1%D0%BE%D1%80%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F-0,9-%D1%81%D0%BC-36%D1%8F%D1%80%D0%B4-83-detail.html",
+    "product_url": "https://decor-opt.com.ua/novinki/lenty/atlasnye/atlasnaya-0-9-sm/%D0%BB%D0%B5%D0%BD%D1%82%D0%B0-%D0%B0%D1%82%D0%BB%D0%B0%D1%81%D0%BD%D0%B0%D1%8F-%D0%B1%D0%BE%D1%80%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F-0,9-%D1%81%D0%BC-36%D1%8F%D1%80%D0%B448-detail.html",
     "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/izobrazhenie-005-copy7_600x0.jpg",
     "photo_index": 1,
     "colors": [
@@ -155302,8 +155059,8 @@
       }
     ],
     "status": "ok",
-    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/lenty/atlasnye/atlasnaya-0-9-sm/%D0%BB%D0%B5%D0%BD%D1%82%D0%B0-%D0%B0%D1%82%D0%BB%D0%B0%D1%81%D0%BD%D0%B0%D1%8F-%D0%B1%D0%BE%D1%80%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F-0,9-%D1%81%D0%BC-36%D1%8F%D1%80%D0%B4-83-detail.html",
-    "title_uk": "Стрічка атласна бордова 0,9 см 36ярд 83"
+    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/lenty/atlasnye/atlasnaya-0-9-sm/%D1%81%D1%82%D1%80%D1%96%D1%87%D0%BA%D0%B0-%D0%B0%D1%82%D0%BB%D0%B0%D1%81%D0%BD%D0%B0-%D0%B1%D0%BE%D1%80%D0%B4%D0%BE%D0%B2%D0%B0-0,9-%D1%81%D0%BC-36%D1%8F%D1%80%D0%B4-48-detail.html",
+    "title_uk": null
   },
   {
     "title": "Лента атласная бордовая 2,00 см 36ярд 83",
@@ -159010,7 +158767,7 @@
     "title_uk": "Стрічка атласна жовта 5,00 см 36ярд 15"
   },
   {
-    "title": "Лента атласная желтая с золотым люрексом 0,6 см 30ярд 15",
+    "title": "Лента атласная желтая с золотым люрексом 0,6 см 36ярд 15",
     "sku": "",
     "product_url": "https://decor-opt.com.ua/novinki/lenty/atlasnye/atlasnaya-0-6-sm-s-lyureksom/%D0%BB%D0%B5%D0%BD%D1%82%D0%B0-%D0%B0%D1%82%D0%BB%D0%B0%D1%81%D0%BD%D0%B0%D1%8F-%D0%B6%D0%B5%D0%BB%D1%82%D0%B0%D1%8F-%D1%81-%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D1%8B%D0%BC-%D0%BB%D1%8E%D1%80%D0%B5%D0%BA%D1%81%D0%BE%D0%BC-0,6-%D1%81%D0%BC-36%D1%8F%D1%80%D0%B4-15-detail.html",
     "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/izobrazhenie-018-copy749_600x0.jpg",
@@ -159383,7 +159140,7 @@
     "title_uk": "Зелена атласна стрічка з горохом 2,5 см 50 м 19#"
   },
   {
-    "title": "Лента атласная зеленая с золотым люрексом 0,6 см 30ярд 19",
+    "title": "Лента атласная зеленая с золотым люрексом 0,6 см 36ярд 19",
     "sku": "",
     "product_url": "https://decor-opt.com.ua/novinki/lenty/atlasnye/atlasnaya-0-6-sm-s-lyureksom/%D0%BB%D0%B5%D0%BD%D1%82%D0%B0-%D0%B0%D1%82%D0%BB%D0%B0%D1%81%D0%BD%D0%B0%D1%8F-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0%D1%8F-%D1%81-%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D1%8B%D0%BC-%D0%BB%D1%8E%D1%80%D0%B5%D0%BA%D1%81%D0%BE%D0%BC-0,6-%D1%81%D0%BC-36%D1%8F%D1%80%D0%B4-19-detail.html",
     "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20104%20copy2_600x0.jpg",
@@ -161358,7 +161115,7 @@
     "title_uk": "Стрічка червоного атласу з золотом. люрекс 2,50 см 36 ярдів 26"
   },
   {
-    "title": "Лента атласная красная с золотым люрексом 0,6 см 30ярд 26",
+    "title": "Лента атласная красная с золотым люрексом 0,6 см 36ярд 26",
     "sku": "",
     "product_url": "https://decor-opt.com.ua/novinki/lenty/atlasnye/atlasnaya-0-6-sm-s-lyureksom/%D0%BB%D0%B5%D0%BD%D1%82%D0%B0-%D0%B0%D1%82%D0%BB%D0%B0%D1%81%D0%BD%D0%B0%D1%8F-%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F-%D1%81-%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D1%8B%D0%BC-%D0%BB%D1%8E%D1%80%D0%B5%D0%BA%D1%81%D0%BE%D0%BC-0,6-%D1%81%D0%BC-36%D1%8F%D1%80%D0%B4-26-detail.html",
     "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20015%20(%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)14_600x0.jpg",
@@ -162114,7 +161871,7 @@
     "title_uk": "Атласна кремова стрічка ручної роботи 1,5 см/20 ярдів"
   },
   {
-    "title": "Лента атласная кремовая с золотым люрексом 0,6 см 30ярд 08",
+    "title": "Лента атласная кремовая с золотым люрексом 0,6 см 36ярд 08",
     "sku": "",
     "product_url": "https://decor-opt.com.ua/novinki/lenty/atlasnye/atlasnaya-0-6-sm-s-lyureksom/%D0%BB%D0%B5%D0%BD%D1%82%D0%B0-%D0%B0%D1%82%D0%BB%D0%B0%D1%81%D0%BD%D0%B0%D1%8F-%D0%BA%D1%80%D0%B5%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D1%81-%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D1%8B%D0%BC-%D0%BB%D1%8E%D1%80%D0%B5%D0%BA%D1%81%D0%BE%D0%BC-0,6-%D1%81%D0%BC-36%D1%8F%D1%80%D0%B4-08-detail.html",
     "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/izobrazhenie-016-copy58_600x0.jpg",
@@ -165576,9 +165333,9 @@
     "title_uk": "Атласна стрічка абажур бордовий 0,6 см 36ярд арт.48"
   },
   {
-    "title": "Лента атласная оттенок бордового 0,9 см 36ярд арт.48",
+    "title": "Лента атласная оттенок бордового 0,9 см 36ярд арт.83",
     "sku": "",
-    "product_url": "https://decor-opt.com.ua/novinki/lenty/atlasnye/atlasnaya-0-9-sm/lenta-atlasnaya-temno-sinyaya-38-0-9-sm-36yard-3038-detail.html",
+    "product_url": "https://decor-opt.com.ua/novinki/lenty/atlasnye/atlasnaya-0-9-sm/%D0%BB%D0%B5%D0%BD%D1%82%D0%B0-%D0%B0%D1%82%D0%BB%D0%B0%D1%81%D0%BD%D0%B0%D1%8F-%D0%BE%D1%82%D1%82%D0%B5%D0%BD%D0%BE%D0%BA-%D0%B1%D0%BE%D1%80%D0%B4%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-0,9-%D1%81%D0%BC-36%D1%8F%D1%80%D0%B4-%D0%B0%D1%80%D1%82-83-detail.html",
     "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/20221013_145601%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F_600x0.jpg",
     "photo_index": 1,
     "colors": [
@@ -165630,8 +165387,8 @@
       }
     ],
     "status": "ok",
-    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/lenty/atlasnye/atlasnaya-0-9-sm/lenta-atlasnaya-temno-sinyaya-38-0-9-sm-36yard-3038-detail.html",
-    "title_uk": "Атласна стрічка відтінок бордовий 0,9 см 36ярд арт.48"
+    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/lenty/atlasnye/atlasnaya-0-9-sm/%D0%B0%D1%82%D0%BB%D0%B0%D1%81%D0%BD%D0%B0-%D1%81%D1%82%D1%80%D1%96%D1%87%D0%BA%D0%B0-%D0%B2%D1%96%D0%B4%D1%82%D1%96%D0%BD%D0%BE%D0%BA-%D0%B1%D0%BE%D1%80%D0%B4%D0%BE%D0%B2%D0%B8%D0%B9-0,9-%D1%81%D0%BC-36%D1%8F%D1%80%D0%B4-%D0%B0%D1%80%D1%82-83-detail.html",
+    "title_uk": null
   },
   {
     "title": "Лента атласная оттенок бордового 1,2 см 36ярд арт.83",
@@ -166342,6 +166099,64 @@
     "status": "ok",
     "product_url_uk": "https://decor-opt.com.ua/uk/novinki/lenty/atlasnye/atlasnaya-5-sm/%D0%BB%D0%B5%D0%BD%D1%82%D0%B0-%D0%B0%D1%82%D0%BB%D0%B0%D1%81%D0%BD%D0%B0%D1%8F-%D0%BE%D1%82%D1%82%D0%B5%D0%BD%D0%BE%D0%BA-%D0%B2%D0%B0%D0%BD%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-5,00-%D1%81%D0%BC-36%D1%8F%D1%80%D0%B4-%D0%B0%D1%80%D1%82-s02-detail.html",
     "title_uk": "Стрічка атласного відтінку ваніль 5,00 см 36ярд ст. S02"
+  },
+  {
+    "title": "Лента атласная оттенок ванильный 2,50 см 36ярд арт.2",
+    "sku": "",
+    "product_url": "https://decor-opt.com.ua/novinki/lenty/atlasnye/atlasnaya-2-5-sm/%D0%BB%D0%B5%D0%BD%D1%82%D0%B0-%D0%B0%D1%82%D0%BB%D0%B0%D1%81%D0%BD%D0%B0%D1%8F-%D0%BE%D1%82%D1%82%D0%B5%D0%BD%D0%BE%D0%BA-%D0%B2%D0%B0%D0%BD%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-2,50-%D1%81%D0%BC-36%D1%8F%D1%80%D0%B4-%D0%B0%D1%80%D1%82-2-detail.html",
+    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/20261008_134913%20copy_600x0.jpg",
+    "photo_index": 1,
+    "colors": [
+      {
+        "hex": "#C4C0A7",
+        "hue_deg": 51.7,
+        "hue_from_deg": 39.7,
+        "hue_to_deg": 63.7,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 69.5,
+        "lightness_to": 85.5,
+        "lab_hue_deg": 102.3,
+        "share": 0.8664,
+        "rgb": [
+          196,
+          192,
+          167
+        ],
+        "lab": [
+          77.53,
+          -2.9,
+          13.29
+        ]
+      },
+      {
+        "hex": "#D7D4CA",
+        "hue_deg": null,
+        "hue_from_deg": null,
+        "hue_to_deg": null,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 76.8,
+        "lightness_to": 92.8,
+        "lab_hue_deg": 96.3,
+        "share": 0.1336,
+        "rgb": [
+          215,
+          212,
+          202
+        ],
+        "lab": [
+          84.79,
+          -0.55,
+          4.96
+        ]
+      }
+    ],
+    "status": "ok",
+    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/lenty/atlasnye/atlasnaya-2-5-sm/%D1%81%D1%82%D1%80%D1%96%D1%87%D0%BA%D0%B0-%D0%B0%D1%82%D0%BB%D0%B0%D1%81%D0%BD%D0%B0-%D0%B2%D0%B0%D0%BD%D1%96%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9-%D0%B2%D1%96%D0%B4%D1%82%D1%96%D0%BD%D0%BE%D0%BA-2,50-%D1%81%D0%BC-36%D1%8F%D1%80%D0%B4-%D0%B0%D1%80%D1%82-2-detail.html",
+    "title_uk": null
   },
   {
     "title": "Лента атласная оттенок василькового 0,6 см 36ярд арт201",
@@ -180565,9 +180380,9 @@
     "title_uk": "Стрічка атласного відтінку яскраво-рожева 0,9 см 36ярд арт.05"
   },
   {
-    "title": "Лента атласная оттенок ярко-розовый с золотым люрексом 0,6 см 30ярд 14",
+    "title": "Лента атласная оттенок ярко-розовый с золотым люрексом 0,6 см 36ярд 14",
     "sku": "",
-    "product_url": "https://decor-opt.com.ua/novinki/lenty/atlasnye/atlasnaya-0-6-sm-s-lyureksom/%D0%BB%D0%B5%D0%BD%D1%82%D0%B0-%D0%B0%D1%82%D0%BB%D0%B0%D1%81%D0%BD%D0%B0%D1%8F-%D0%BE%D1%82%D1%82%D0%B5%D0%BD%D0%BE%D0%BA-%D1%8F%D1%80%D0%BA%D0%BE-%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9-%D1%81-%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D1%8B%D0%BC-%D0%BB%D1%8E%D1%80%D0%B5%D0%BA%D1%81%D0%BE%D0%BC-0,6-%D1%81%D0%BC-30%D1%8F%D1%80%D0%B4-14-detail.html",
+    "product_url": "https://decor-opt.com.ua/novinki/lenty/atlasnye/atlasnaya-0-6-sm-s-lyureksom/%D0%BB%D0%B5%D0%BD%D1%82%D0%B0-%D0%B0%D1%82%D0%BB%D0%B0%D1%81%D0%BD%D0%B0%D1%8F-%D0%BE%D1%82%D1%82%D0%B5%D0%BD%D0%BE%D0%BA-%D1%8F%D1%80%D0%BA%D0%BE-%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9-%D1%81-%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D1%8B%D0%BC-%D0%BB%D1%8E%D1%80%D0%B5%D0%BA%D1%81%D0%BE%D0%BC-0,6-%D1%81%D0%BC-36%D1%8F%D1%80%D0%B4-14-detail.html",
     "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20008%20(%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)943_600x0.jpg",
     "photo_index": 1,
     "colors": [
@@ -180619,8 +180434,8 @@
       }
     ],
     "status": "ok",
-    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/lenty/atlasnye/atlasnaya-0-6-sm-s-lyureksom/%D0%BB%D0%B5%D0%BD%D1%82%D0%B0-%D0%B0%D1%82%D0%BB%D0%B0%D1%81%D0%BD%D0%B0%D1%8F-%D0%BE%D1%82%D1%82%D0%B5%D0%BD%D0%BE%D0%BA-%D1%8F%D1%80%D0%BA%D0%BE-%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9-%D1%81-%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D1%8B%D0%BC-%D0%BB%D1%8E%D1%80%D0%B5%D0%BA%D1%81%D0%BE%D0%BC-0,6-%D1%81%D0%BC-30%D1%8F%D1%80%D0%B4-14-detail.html",
-    "title_uk": "Стрічка атласного відтінку яскраво-рожевого з золотим люрексом 0,6 см 30ярд 14"
+    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/lenty/atlasnye/atlasnaya-0-6-sm-s-lyureksom/%D1%81%D1%82%D1%80%D1%96%D1%87%D0%BA%D0%B0-%D0%B0%D1%82%D0%BB%D0%B0%D1%81%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B2%D1%96%D0%B4%D1%82%D1%96%D0%BD%D0%BA%D1%83-%D1%8F%D1%81%D0%BA%D1%80%D0%B0%D0%B2%D0%BE-%D1%80%D0%BE%D0%B6%D0%B5%D0%B2%D0%BE%D0%B3%D0%BE-%D0%B7-%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B8%D0%BC-%D0%BB%D1%8E%D1%80%D0%B5%D0%BA%D1%81%D0%BE%D0%BC-0,6-%D1%81%D0%BC-36%D1%8F%D1%80%D0%B4-14-detail.html",
+    "title_uk": null
   },
   {
     "title": "Лента атласная персиковая 0,6 см 36ярд 174",
@@ -191697,7 +191512,7 @@
     "title_uk": "Бузкова атласна стрічка з великими білими сердечками 4 см 50 м"
   },
   {
-    "title": "Лента атласная сиреневая с золотым люрексом 0,6 см 30ярд 21",
+    "title": "Лента атласная сиреневая с золотым люрексом 0,6 см 36ярд 21",
     "sku": "",
     "product_url": "https://decor-opt.com.ua/novinki/lenty/atlasnye/atlasnaya-0-6-sm-s-lyureksom/%D0%BB%D0%B5%D0%BD%D1%82%D0%B0-%D0%B0%D1%82%D0%BB%D0%B0%D1%81%D0%BD%D0%B0%D1%8F-%D1%81%D0%B8%D1%80%D0%B5%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F-%D1%81-%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D1%8B%D0%BC-%D0%BB%D1%8E%D1%80%D0%B5%D0%BA%D1%81%D0%BE%D0%BC-0,6-%D1%81%D0%BC-36%D1%8F%D1%80%D0%B4-21-detail.html",
     "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/izobrazhenie-007-copy984_600x0.jpg",
@@ -226361,6 +226176,41 @@
     "title_uk": "Стрічка репсовий відтінок зелений 2,5 см 25 ярдів арт 223"
   },
   {
+    "title": "Лента репсовая оттенок зеленый 2,5 см 25 ярд арт.А3-0552",
+    "sku": "",
+    "product_url": "https://decor-opt.com.ua/novinki/lenty/repsovye/repsovaya-2-5-sm/%D0%BB%D0%B5%D0%BD%D1%82%D0%B0-%D1%80%D0%B5%D0%BF%D1%81%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BE%D1%82%D1%82%D0%B5%D0%BD%D0%BE%D0%BA-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9-2,5-%D1%81%D0%BC-25-%D1%8F%D1%80%D0%B4-%D0%B0%D1%80%D1%82-%D0%B03-0552-19849-detail.html",
+    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/20261008_134953%20copy9_600x0.jpg",
+    "photo_index": 1,
+    "colors": [
+      {
+        "hex": "#4E8358",
+        "hue_deg": 131.3,
+        "hue_from_deg": 119.3,
+        "hue_to_deg": 143.3,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 42.0,
+        "lightness_to": 58.0,
+        "lab_hue_deg": 146.8,
+        "share": 1.0,
+        "rgb": [
+          78,
+          131,
+          88
+        ],
+        "lab": [
+          50.01,
+          -27.26,
+          17.85
+        ]
+      }
+    ],
+    "status": "ok",
+    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/lenty/repsovye/repsovaya-2-5-sm/%D1%81%D1%82%D1%80%D1%96%D1%87%D0%BA%D0%B0-%D1%80%D0%B5%D0%BF%D1%81%D0%BE%D0%B2%D0%B0-%D0%B2%D1%96%D0%B4%D1%82%D1%96%D0%BD%D0%BE%D0%BA-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9-2,5-%D1%81%D0%BC-25-%D1%8F%D1%80%D0%B4-%D0%B0%D1%80%D1%82-%D0%B03-0552-19849-detail.html",
+    "title_uk": null
+  },
+  {
     "title": "Лента репсовая оттенок изумрудного 4 см 25 ярд арт.49",
     "sku": "",
     "product_url": "https://decor-opt.com.ua/novinki/lenty/repsovye/repsovaya-4-sm/%D0%BB%D0%B5%D0%BD%D1%82%D0%B0-%D1%80%D0%B5%D0%BF%D1%81%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BE%D1%82%D1%82%D0%B5%D0%BD%D0%BE%D0%BA-%D0%B8%D0%B7%D1%83%D0%BC%D1%80%D1%83%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE-4-%D1%81%D0%BC-25-%D1%8F%D1%80%D0%B4-%D0%B0%D1%80%D1%82-049-11478-detail.html",
@@ -227864,6 +227714,41 @@
     "title_uk": "Стрічка репс кавовий відтінок 2,5 см 25 ярд арт.201"
   },
   {
+    "title": "Лента репсовая оттенок кофейный 2,5 см 25 ярд арт.А3-0835",
+    "sku": "",
+    "product_url": "https://decor-opt.com.ua/novinki/lenty/repsovye/repsovaya-2-5-sm/%D0%BB%D0%B5%D0%BD%D1%82%D0%B0-%D1%80%D0%B5%D0%BF%D1%81%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BE%D1%82%D1%82%D0%B5%D0%BD%D0%BE%D0%BA-%D0%BA%D0%BE%D1%84%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9-2,5-%D1%81%D0%BC-25-%D1%8F%D1%80%D0%B4-%D0%B0%D1%80%D1%82-%D0%B03-0835-19847-detail.html",
+    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/20261008_134945%20copy4_600x0.jpg",
+    "photo_index": 1,
+    "colors": [
+      {
+        "hex": "#91806B",
+        "hue_deg": 33.2,
+        "hue_from_deg": 21.2,
+        "hue_to_deg": 45.2,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 46.5,
+        "lightness_to": 62.5,
+        "lab_hue_deg": 75.9,
+        "share": 1.0,
+        "rgb": [
+          145,
+          128,
+          107
+        ],
+        "lab": [
+          54.55,
+          3.42,
+          13.64
+        ]
+      }
+    ],
+    "status": "ok",
+    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/lenty/repsovye/repsovaya-2-5-sm/%D1%81%D1%82%D1%80%D1%96%D1%87%D0%BA%D0%B0-%D1%80%D0%B5%D0%BF%D1%81%D0%BE%D0%B2%D0%B0-%D0%BA%D0%B0%D0%B2%D0%BE%D0%B2%D0%B8%D0%B9-%D0%B2%D1%96%D0%B4%D1%82%D1%96%D0%BD%D0%BE%D0%BA-2,5-%D1%81%D0%BC-25-%D1%8F%D1%80%D0%B4-%D0%B0%D1%80%D1%82-%D0%B03-0835-19847-detail.html",
+    "title_uk": null
+  },
+  {
     "title": "Лента репсовая оттенок креветочного 4 см 25 ярд арт.069",
     "sku": "",
     "product_url": "https://decor-opt.com.ua/novinki/lenty/repsovye/repsovaya-4-sm/%D0%BB%D0%B5%D0%BD%D1%82%D0%B0-%D1%80%D0%B5%D0%BF%D1%81%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BE%D1%82%D1%82%D0%B5%D0%BD%D0%BE%D0%BA-%D0%BA%D1%80%D0%B5%D0%B2%D0%B5%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-4-%D1%81%D0%BC-25-%D1%8F%D1%80%D0%B4-%D0%B0%D1%80%D1%82-069-11478-detail.html",
@@ -229109,6 +228994,41 @@
     "status": "ok",
     "product_url_uk": "https://decor-opt.com.ua/uk/novinki/lenty/repsovye/repsovaya-2-5-sm/%D1%81%D1%82%D1%80%D1%96%D1%87%D0%BA%D0%B0-%D1%80%D0%B5%D0%BF%D1%81%D0%BE%D0%B2%D0%B0-%D0%B2%D1%96%D0%B4%D1%82%D1%96%D0%BD%D0%BE%D0%BA-%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9-2,5-%D1%81%D0%BC-25-%D1%8F%D1%80%D0%B4-%D0%B0%D1%80%D1%82-0686-detail.html",
     "title_uk": "Стрічка репсова відтінок оливковий 2,5 см 25 ярд арт.0686"
+  },
+  {
+    "title": "Лента репсовая оттенок оливковый 2,5 см 25 ярд арт.А3-0568",
+    "sku": "",
+    "product_url": "https://decor-opt.com.ua/novinki/lenty/repsovye/repsovaya-2-5-sm/%D0%BB%D0%B5%D0%BD%D1%82%D0%B0-%D1%80%D0%B5%D0%BF%D1%81%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BE%D1%82%D1%82%D0%B5%D0%BD%D0%BE%D0%BA-%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9-2,5-%D1%81%D0%BC-25-%D1%8F%D1%80%D0%B4-%D0%B0%D1%80%D1%82-%D0%B03-0568-detail.html",
+    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/20261008_135032%20copy_600x0.jpg",
+    "photo_index": 1,
+    "colors": [
+      {
+        "hex": "#777F5D",
+        "hue_deg": 74.1,
+        "hue_from_deg": 62.1,
+        "hue_to_deg": 86.1,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 43.7,
+        "lightness_to": 59.7,
+        "lab_hue_deg": 118.0,
+        "share": 1.0,
+        "rgb": [
+          119,
+          127,
+          93
+        ],
+        "lab": [
+          51.75,
+          -9.32,
+          17.49
+        ]
+      }
+    ],
+    "status": "ok",
+    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/lenty/repsovye/repsovaya-2-5-sm/%D1%81%D1%82%D1%80%D1%96%D1%87%D0%BA%D0%B0-%D1%80%D0%B5%D0%BF%D1%81%D0%BE%D0%B2%D0%B0-%D0%B2%D1%96%D0%B4%D1%82%D1%96%D0%BD%D0%BE%D0%BA-%D0%BE%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9-2,5-%D1%81%D0%BC-25-%D1%8F%D1%80%D0%B4-%D0%B0%D1%80%D1%82-%D0%B03-0568-detail.html",
+    "title_uk": null
   },
   {
     "title": "Лента репсовая оттенок оранжевого 2,5 см 25 ярд арт.23",
@@ -232649,6 +232569,41 @@
     "title_uk": "Репсова стрічка темно-синього кольору 4 см 25 ярдів ст. А3-240"
   },
   {
+    "title": "Лента репсовая оттенок трава 2,5 см 25 ярд арт.А3-0548",
+    "sku": "",
+    "product_url": "https://decor-opt.com.ua/novinki/lenty/repsovye/repsovaya-2-5-sm/%D0%BB%D0%B5%D0%BD%D1%82%D0%B0-%D1%80%D0%B5%D0%BF%D1%81%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BE%D1%82%D1%82%D0%B5%D0%BD%D0%BE%D0%BA-%D1%82%D1%80%D0%B0%D0%B2%D0%B0-2,5-%D1%81%D0%BC-25-%D1%8F%D1%80%D0%B4-%D0%B0%D1%80%D1%82-%D0%B03-0548-detail.html",
+    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/20261008_135001%20copy_600x0.jpg",
+    "photo_index": 1,
+    "colors": [
+      {
+        "hex": "#7C9151",
+        "hue_deg": 79.7,
+        "hue_from_deg": 67.7,
+        "hue_to_deg": 91.7,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 49.2,
+        "lightness_to": 65.2,
+        "lab_hue_deg": 120.4,
+        "share": 1.0,
+        "rgb": [
+          124,
+          145,
+          81
+        ],
+        "lab": [
+          57.16,
+          -18.52,
+          31.58
+        ]
+      }
+    ],
+    "status": "ok",
+    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/lenty/repsovye/repsovaya-2-5-sm/%D1%81%D1%82%D1%80%D1%96%D1%87%D0%BA%D0%B0-%D1%80%D0%B5%D0%BF%D1%81%D0%BE%D0%B2%D0%B0-%D0%B2%D1%96%D0%B4%D1%82%D1%96%D0%BD%D0%BE%D0%BA-%D1%82%D1%80%D0%B0%D0%B2%D0%B0-2,5-%D1%81%D0%BC-25-%D1%8F%D1%80%D0%B4-%D0%B0%D1%80%D1%82-%D0%B03-0548-detail.html",
+    "title_uk": null
+  },
+  {
     "title": "Лента репсовая оттенок ультра-салатового 2,5 см 25 ярд арт.58",
     "sku": "",
     "product_url": "https://decor-opt.com.ua/novinki/lenty/repsovye/repsovaya-2-5-sm/%D0%BB%D0%B5%D0%BD%D1%82%D0%B0-%D1%80%D0%B5%D0%BF%D1%81%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BE%D1%82%D1%82%D0%B5%D0%BD%D0%BE%D0%BA-%D1%83%D0%BB%D1%8C%D1%82%D1%80%D0%B0-%D1%81%D0%B0%D0%BB%D0%B0%D1%82%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-2,5-%D1%81%D0%BC-25-%D1%8F%D1%80%D0%B4-%D0%B0%D1%80%D1%82-58-13631-detail.html",
@@ -233125,6 +233080,64 @@
     "status": "ok",
     "product_url_uk": "https://decor-opt.com.ua/uk/novinki/lenty/repsovye/repsovaya-2-5-sm/%D1%81%D1%82%D1%80%D1%96%D1%87%D0%BA%D0%B0-%D1%80%D0%B5%D0%BF%D1%81%D0%BE%D0%B2%D0%B0-%D0%B2%D1%96%D0%B4%D1%82%D1%96%D0%BD%D0%BE%D0%BA-%D1%84%D1%96%D1%81%D1%82%D0%B0%D1%88%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9-2,5-%D1%81%D0%BC-25-%D1%8F%D1%80%D0%B4-%D0%B0%D1%80%D1%82-0524-detail.html",
     "title_uk": "Стрічка репсова відтінок фісташковий 2,5 см 25 ярд арт.0524"
+  },
+  {
+    "title": "Лента репсовая оттенок фисташковый 2,5 см 25 ярд арт.А3-0566",
+    "sku": "",
+    "product_url": "https://decor-opt.com.ua/novinki/lenty/repsovye/repsovaya-2-5-sm/%D0%BB%D0%B5%D0%BD%D1%82%D0%B0-%D1%80%D0%B5%D0%BF%D1%81%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BE%D1%82%D1%82%D0%B5%D0%BD%D0%BE%D0%BA-%D1%84%D0%B8%D1%81%D1%82%D0%B0%D1%88%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9-2,5-%D1%81%D0%BC-25-%D1%8F%D1%80%D0%B4-%D0%B0%D1%80%D1%82-%D0%B03-0566-detail.html",
+    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/20261008_134927%20copy_600x0.jpg",
+    "photo_index": 1,
+    "colors": [
+      {
+        "hex": "#80836E",
+        "hue_deg": 68.6,
+        "hue_from_deg": 56.6,
+        "hue_to_deg": 80.6,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 45.8,
+        "lightness_to": 61.8,
+        "lab_hue_deg": 114.2,
+        "share": 0.8436,
+        "rgb": [
+          128,
+          131,
+          110
+        ],
+        "lab": [
+          53.83,
+          -4.77,
+          10.62
+        ]
+      },
+      {
+        "hex": "#E9E9E7",
+        "hue_deg": null,
+        "hue_from_deg": null,
+        "hue_to_deg": null,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 84.2,
+        "lightness_to": 100.0,
+        "lab_hue_deg": null,
+        "share": 0.1564,
+        "rgb": [
+          233,
+          233,
+          231
+        ],
+        "lab": [
+          92.2,
+          -0.35,
+          1.07
+        ]
+      }
+    ],
+    "status": "ok",
+    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/lenty/repsovye/repsovaya-2-5-sm/%D1%81%D1%82%D1%80%D1%96%D1%87%D0%BA%D0%B0-%D1%80%D0%B5%D0%BF%D1%81%D0%BE%D0%B2%D0%B0-%D0%B2%D1%96%D0%B4%D1%82%D1%96%D0%BD%D0%BE%D0%BA-%D1%84%D1%96%D1%81%D1%82%D0%B0%D1%88%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9-2,5-%D1%81%D0%BC-25-%D1%8F%D1%80%D0%B4-%D0%B0%D1%80%D1%82-%D0%B03-0566-detail.html",
+    "title_uk": null
   },
   {
     "title": "Лента репсовая оттенок хаки 0,6 см 25 ярд арт.95",
@@ -252694,6 +252707,122 @@
     "title_uk": "Набір оксамитових гарбузиків 6см/6шт С30736"
   },
   {
+    "title": "Набор бисерных иголок с открытым ушком 100/125/138/0,5мм 3шт",
+    "sku": "",
+    "product_url": "https://decor-opt.com.ua/novinki/biser-kitajskij/%D0%B4%D0%BB%D1%8F-%D0%B1%D0%B8%D1%81%D0%B5%D1%80%D0%BE%D0%BF%D0%BB%D0%B5%D1%82%D0%B5%D0%BD%D0%B8%D1%8F/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%B1%D0%B8%D1%81%D0%B5%D1%80%D0%BD%D1%8B%D1%85-%D0%B8%D0%B3%D0%BE%D0%BB%D0%BE%D0%BA-%D1%81-%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%BC-%D1%83%D1%88%D0%BA%D0%BE%D0%BC-100-125-138-0,5%D0%BC%D0%BC-3%D1%88%D1%82-detail.html",
+    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/%D0%A2%D0%BE%D0%BD%D0%BA%D0%B8%D0%B5%20%D0%B8%D0%B3%D0%BB%D1%8B%20%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B7%D1%80%D0%B0%D1%87%D0%BD%D1%8B%D0%B9%20%D1%84%D1%83%D1%82%D0%BB%D1%8F%D1%80%20copy9_600x0.jpg",
+    "photo_index": 1,
+    "colors": [
+      {
+        "hex": "#E8E6E9",
+        "hue_deg": null,
+        "hue_from_deg": null,
+        "hue_to_deg": null,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 83.6,
+        "lightness_to": 99.6,
+        "lab_hue_deg": null,
+        "share": 0.6333,
+        "rgb": [
+          232,
+          230,
+          233
+        ],
+        "lab": [
+          91.55,
+          1.21,
+          -1.37
+        ]
+      },
+      {
+        "hex": "#5969D3",
+        "hue_deg": 232.1,
+        "hue_from_deg": 220.1,
+        "hue_to_deg": 244.1,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 40.2,
+        "lightness_to": 56.2,
+        "lab_hue_deg": 293.9,
+        "share": 0.3667,
+        "rgb": [
+          89,
+          105,
+          211
+        ],
+        "lab": [
+          48.18,
+          25.18,
+          -56.69
+        ]
+      }
+    ],
+    "status": "ok",
+    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/biser-kitajskij/%D0%B4%D0%BB%D1%8F-%D0%B1%D0%B8%D1%81%D0%B5%D1%80%D0%BE%D0%BF%D0%BB%D0%B5%D1%82%D0%B5%D0%BD%D0%B8%D1%8F/%D0%BD%D0%B0%D0%B1%D1%96%D1%80-%D0%B1%D1%96%D1%81%D0%B5%D1%80%D0%BD%D0%B8%D1%85-%D0%B3%D0%BE%D0%BB%D0%BE%D0%BA-%D0%B7-%D0%B2%D1%96%D0%B4%D0%BA%D1%80%D0%B8%D1%82%D0%B8%D0%BC-%D0%B2%D1%83%D1%88%D0%BA%D0%BE%D0%BC-100-125-138-0,5%D0%BC%D0%BC-3%D1%88%D1%82-detail.html",
+    "title_uk": null
+  },
+  {
+    "title": "Набор бисерных иголок с открытым ушком 100/125/138/0,5мм 3шт",
+    "sku": "",
+    "product_url": "https://decor-opt.com.ua/novinki/biser-kitajskij/%D0%B8%D0%B3%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%B2%D0%BE%D0%BB%D0%BE%D1%81,-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%B1%D0%B8%D1%81%D0%B5%D1%80%D0%BD%D1%8B%D1%85-%D0%B8%D0%B3%D0%BE%D0%BB%D0%BE%D0%BA-%D1%81-%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%BC-%D1%83%D1%88%D0%BA%D0%BE%D0%BC-100-125-138-0,5%D0%BC%D0%BC-3%D1%88%D1%82-detail.html",
+    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/%D0%A2%D0%BE%D0%BD%D0%BA%D0%B8%D0%B5%20%D0%B8%D0%B3%D0%BB%D1%8B%20%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B7%D1%80%D0%B0%D1%87%D0%BD%D1%8B%D0%B9%20%D1%84%D1%83%D1%82%D0%BB%D1%8F%D1%80%20copy9_600x0.jpg",
+    "photo_index": 1,
+    "colors": [
+      {
+        "hex": "#E8E6E9",
+        "hue_deg": null,
+        "hue_from_deg": null,
+        "hue_to_deg": null,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 83.6,
+        "lightness_to": 99.6,
+        "lab_hue_deg": null,
+        "share": 0.6333,
+        "rgb": [
+          232,
+          230,
+          233
+        ],
+        "lab": [
+          91.55,
+          1.21,
+          -1.37
+        ]
+      },
+      {
+        "hex": "#5969D3",
+        "hue_deg": 232.1,
+        "hue_from_deg": 220.1,
+        "hue_to_deg": 244.1,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 40.2,
+        "lightness_to": 56.2,
+        "lab_hue_deg": 293.9,
+        "share": 0.3667,
+        "rgb": [
+          89,
+          105,
+          211
+        ],
+        "lab": [
+          48.18,
+          25.18,
+          -56.69
+        ]
+      }
+    ],
+    "status": "ok",
+    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/biser-kitajskij/%D0%B8%D0%B3%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%B2%D0%BE%D0%BB%D0%BE%D1%81,-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B/%D0%BD%D0%B0%D0%B1%D1%96%D1%80-%D0%B1%D1%96%D1%81%D0%B5%D1%80%D0%BD%D0%B8%D1%85-%D0%B3%D0%BE%D0%BB%D0%BE%D0%BA-%D0%B7-%D0%B2%D1%96%D0%B4%D0%BA%D1%80%D0%B8%D1%82%D0%B8%D0%BC-%D0%B2%D1%83%D1%88%D0%BA%D0%BE%D0%BC-100-125-138-0,5%D0%BC%D0%BC-3%D1%88%D1%82-detail.html",
+    "title_uk": null
+  },
+  {
     "title": "Набор больших новогодних элементов на скотче Маша и медведь 7-34см/11шт",
     "sku": "",
     "product_url": "https://decor-opt.com.ua/novinki/%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D0%BD,-%D0%B4%D0%B5%D0%BA%D0%BE%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F-%D0%B1%D1%83%D0%BC%D0%B0%D0%B3%D0%B0,-%D0%B1%D1%83%D0%BC%D0%B0%D0%B6%D0%BD%D1%8B%D0%B5-%D1%83%D0%BA%D1%80%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D1%8F/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D1%85-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%D0%B4%D0%BD%D0%B8%D1%85-%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D1%81%D0%BA%D0%BE%D1%82%D1%87%D0%B5-%D0%BC%D0%B0%D1%88%D0%B0-%D0%B8-%D0%BC%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D1%8C-7-34%D1%81%D0%BC-11%D1%88%D1%82-detail.html",
@@ -252914,41 +253043,6 @@
     "title_uk": "Набір великих овальних кошиків з лози 3шт WW190133"
   },
   {
-    "title": "Набор больших плетенных кашпо 3шт J01358",
-    "sku": "",
-    "product_url": "https://decor-opt.com.ua/novinki/%D0%BA%D0%B0%D1%88%D0%BF%D0%BE/dekorativnoe-kashpo/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D1%85-%D0%BF%D0%BB%D0%B5%D1%82%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D0%BA%D0%B0%D1%88%D0%BF%D0%BE-3%D1%88%D1%82-j01358-detail.html",
-    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/20260914_131405%20copy_600x0.jpg",
-    "photo_index": 1,
-    "colors": [
-      {
-        "hex": "#BDAE94",
-        "hue_deg": 38.0,
-        "hue_from_deg": 26.0,
-        "hue_to_deg": 50.0,
-        "hue_wraps_zero": false,
-        "delta_e_likely": 10.0,
-        "delta_e_review": 15.0,
-        "lightness_from": 63.8,
-        "lightness_to": 79.8,
-        "lab_hue_deg": 86.2,
-        "share": 1.0,
-        "rgb": [
-          189,
-          174,
-          148
-        ],
-        "lab": [
-          71.75,
-          1.04,
-          15.62
-        ]
-      }
-    ],
-    "status": "ok",
-    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BA%D0%B0%D1%88%D0%BF%D0%BE/dekorativnoe-kashpo/%D0%BD%D0%B0%D0%B1%D1%96%D1%80-%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D1%85-%D0%BF%D0%BB%D0%B5%D1%82%D0%B5%D0%BD%D0%B8%D1%85-%D0%BA%D0%B0%D1%88%D0%BF%D0%BE-3%D1%88%D1%82-j01358-detail.html",
-    "title_uk": "Набір великих плетених кашпо 3шт J01358"
-  },
-  {
     "title": "Набор больших плетенных кашпо 3шт J01359",
     "sku": "",
     "product_url": "https://decor-opt.com.ua/novinki/%D0%BA%D0%B0%D1%88%D0%BF%D0%BE/dekorativnoe-kashpo/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D1%85-%D0%BF%D0%BB%D0%B5%D1%82%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D0%BA%D0%B0%D1%88%D0%BF%D0%BE-3%D1%88%D1%82-j01359-detail.html",
@@ -253017,41 +253111,6 @@
     "status": "ok",
     "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BA%D0%B0%D1%88%D0%BF%D0%BE/dekorativnoe-kashpo/%D0%BD%D0%B0%D0%B1%D1%96%D1%80-%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D1%85-%D0%BF%D0%BB%D0%B5%D1%82%D0%B5%D0%BD%D0%B8%D1%85-%D0%BA%D0%B0%D1%88%D0%BF%D0%BE-4%D1%88%D1%82-j01369-detail.html",
     "title_uk": "Набір великих плетених кашпо 4шт J01369"
-  },
-  {
-    "title": "Набор больших плетенных кашпо с белой серединкой 3шт J01362",
-    "sku": "",
-    "product_url": "https://decor-opt.com.ua/novinki/%D0%BA%D0%B0%D1%88%D0%BF%D0%BE/dekorativnoe-kashpo/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D1%85-%D0%BF%D0%BB%D0%B5%D1%82%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D0%BA%D0%B0%D1%88%D0%BF%D0%BE-%D1%81-%D0%B1%D0%B5%D0%BB%D0%BE%D0%B9-%D1%81%D0%B5%D1%80%D0%B5%D0%B4%D0%B8%D0%BD%D0%BA%D0%BE%D0%B9-3%D1%88%D1%82-j01362-detail.html",
-    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/,%2014_07_22%20copy_600x0.jpg",
-    "photo_index": 1,
-    "colors": [
-      {
-        "hex": "#AF9479",
-        "hue_deg": 30.0,
-        "hue_from_deg": 18.0,
-        "hue_to_deg": 42.0,
-        "hue_wraps_zero": false,
-        "delta_e_likely": 10.0,
-        "delta_e_review": 15.0,
-        "lightness_from": 55.2,
-        "lightness_to": 71.2,
-        "lab_hue_deg": 72.1,
-        "share": 1.0,
-        "rgb": [
-          175,
-          148,
-          121
-        ],
-        "lab": [
-          63.18,
-          5.96,
-          18.43
-        ]
-      }
-    ],
-    "status": "ok",
-    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BA%D0%B0%D1%88%D0%BF%D0%BE/dekorativnoe-kashpo/%D0%BD%D0%B0%D0%B1%D1%96%D1%80-%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D1%85-%D0%BF%D0%BB%D0%B5%D1%82%D0%B5%D0%BD%D0%B8%D1%85-%D0%BA%D0%B0%D1%88%D0%BF%D0%BE-%D0%B7-%D0%B1%D1%96%D0%BB%D0%BE%D1%8E-%D1%81%D0%B5%D1%80%D0%B5%D0%B4%D0%B8%D0%BD%D0%BA%D0%BE%D1%8E-3%D1%88%D1%82-j01362-detail.html",
-    "title_uk": "Набір великих плетених кашпо з білою серединкою 3шт J01362"
   },
   {
     "title": "Набор больших плетенных кашпо с черными полосками 3шт J01208",
@@ -279767,7 +279826,7 @@
     "colors": [],
     "status": "review: no non-gray product pixels",
     "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F-1/%D0%BF%D0%B5%D1%80%D0%BE-%D1%81%D1%82%D1%80%D0%B0%D1%83%D1%81%D0%B0-%D1%81%D0%B5%D1%80%D0%BE%D0%B5-%D0%BF%D0%B0%D1%81%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5-%D0%BF%D1%83%D1%85%D0%BE%D0%B2%D0%BE%D0%B5-25-30%D1%81%D0%BC-detail.html",
-    "title_uk": "Перо страуса сіре пастельний пух 25-30см"
+    "title_uk": null
   },
   {
     "title": "Перо страуса серое пуховое 13-19см",
@@ -279813,7 +279872,7 @@
     "colors": [],
     "status": "review: no non-gray product pixels",
     "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F-1/%D0%BF%D0%B5%D1%80%D0%BE-%D1%81%D1%82%D1%80%D0%B0%D1%83%D1%81%D0%B0-%D1%81%D0%B5%D1%80%D0%BE%D0%B5-%D0%BF%D1%83%D1%85%D0%BE%D0%B2%D0%BE%D0%B5-20-25%D1%81%D0%BC-detail.html",
-    "title_uk": "Страусине перо сіре пухове 20-25см"
+    "title_uk": null
   },
   {
     "title": "Перо страуса серое пуховое 30-35см",
@@ -279824,7 +279883,7 @@
     "colors": [],
     "status": "review: no non-gray product pixels",
     "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F-1/%D0%BF%D0%B5%D1%80%D0%BE-%D1%81%D1%82%D1%80%D0%B0%D1%83%D1%81%D0%B0-%D1%81%D0%B5%D1%80%D0%BE%D0%B5-%D0%BF%D1%83%D1%85%D0%BE%D0%B2%D0%BE%D0%B5-30-35%D1%81%D0%BC-9020-detail.html",
-    "title_uk": "Страусине перо сіре пухове 30-35см"
+    "title_uk": null
   },
   {
     "title": "Перо страуса синее пуховое 14-19см",
@@ -281840,6 +281899,505 @@
     "title_uk": "Прикраси з пера пелюсток для ювел. виробів 29 6-8см/20шт"
   },
   {
+    "title": "Перо-меч павлина бирюзовое 25-30см/1шт",
+    "sku": "",
+    "product_url": "https://decor-opt.com.ua/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F-%D0%BF%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%B0/%D0%BF%D0%B5%D1%80%D0%BE-%D0%BC%D0%B5%D1%87-%D0%BF%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%B0-%D0%B1%D0%B8%D1%80%D1%8E%D0%B7%D0%BE%D0%B2%D0%BE%D0%B5-25-30%D1%81%D0%BC-1%D1%88%D1%82-detail.html",
+    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20ChatGPT%208%20%D0%BE%D0%BA%D1%82.%202026%20%D0%B3.,%2015_47_15-9%20copy6_600x0.jpg",
+    "photo_index": 1,
+    "colors": [
+      {
+        "hex": "#3E8F9E",
+        "hue_deg": 189.4,
+        "hue_from_deg": 177.4,
+        "hue_to_deg": 201.4,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 47.2,
+        "lightness_to": 63.2,
+        "lab_hue_deg": 217.0,
+        "share": 1.0,
+        "rgb": [
+          62,
+          143,
+          158
+        ],
+        "lab": [
+          55.2,
+          -20.13,
+          -15.15
+        ]
+      }
+    ],
+    "status": "ok",
+    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F-%D0%BF%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%B0/%D0%BF%D0%B5%D1%80%D0%BE-%D0%BC%D0%B5%D1%87-%D0%BF%D0%B0%D0%B2%D0%B8%D1%87%D0%B0-%D0%B1%D1%96%D1%80%D1%8E%D0%B7%D0%BE%D0%B2%D0%B5-25-30%D1%81%D0%BC-1%D1%88%D1%82-detail.html",
+    "title_uk": null
+  },
+  {
+    "title": "Перо-меч павлина желтое 25-30см/1шт",
+    "sku": "",
+    "product_url": "https://decor-opt.com.ua/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F-%D0%BF%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%B0/%D0%BF%D0%B5%D1%80%D0%BE-%D0%BC%D0%B5%D1%87-%D0%BF%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%B0-%D0%B6%D0%B5%D0%BB%D1%82%D0%BE%D0%B5-25-30%D1%81%D0%BC-1%D1%88%D1%82-detail.html",
+    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20ChatGPT%208%20%D0%BE%D0%BA%D1%82.%202026%20%D0%B3.,%2015_47_14-8%20copy_600x0.jpg",
+    "photo_index": 1,
+    "colors": [
+      {
+        "hex": "#C6AC46",
+        "hue_deg": 47.8,
+        "hue_from_deg": 35.8,
+        "hue_to_deg": 59.8,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 62.9,
+        "lightness_to": 78.9,
+        "lab_hue_deg": 92.7,
+        "share": 1.0,
+        "rgb": [
+          198,
+          172,
+          70
+        ],
+        "lab": [
+          70.88,
+          -2.55,
+          54.11
+        ]
+      }
+    ],
+    "status": "ok",
+    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F-%D0%BF%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%B0/%D0%BF%D0%B5%D1%80%D0%BE-%D0%BC%D0%B5%D1%87-%D0%BF%D0%B0%D0%B2%D0%B8%D1%87%D0%B0-%D0%B6%D0%BE%D0%B2%D1%82%D0%B5-25-30%D1%81%D0%BC-1%D1%88%D1%82-detail.html",
+    "title_uk": null
+  },
+  {
+    "title": "Перо-меч павлина красное 25-30см/1шт",
+    "sku": "",
+    "product_url": "https://decor-opt.com.ua/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F-%D0%BF%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%B0/%D0%BF%D0%B5%D1%80%D0%BE-%D0%BC%D0%B5%D1%87-%D0%BF%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%B0-%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B5-25-30%D1%81%D0%BC-1%D1%88%D1%82-detail.html",
+    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20ChatGPT%208%20%D0%BE%D0%BA%D1%82.%202026%20%D0%B3.,%2015_47_04-4%20copy_600x0.jpg",
+    "photo_index": 1,
+    "colors": [
+      {
+        "hex": "#BC5E5B",
+        "hue_deg": 1.9,
+        "hue_from_deg": 349.9,
+        "hue_to_deg": 13.9,
+        "hue_wraps_zero": true,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 43.2,
+        "lightness_to": 59.2,
+        "lab_hue_deg": 27.3,
+        "share": 1.0,
+        "rgb": [
+          188,
+          94,
+          91
+        ],
+        "lab": [
+          51.21,
+          37.24,
+          19.21
+        ]
+      }
+    ],
+    "status": "ok",
+    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F-%D0%BF%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%B0/%D0%BF%D0%B5%D1%80%D0%BE-%D0%BC%D0%B5%D1%87-%D0%BF%D0%B0%D0%B2%D0%B8%D1%87%D0%B0-%D1%87%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B5-25-30%D1%81%D0%BC-1%D1%88%D1%82-detail.html",
+    "title_uk": null
+  },
+  {
+    "title": "Перо-меч павлина кремовое 25-30см/1шт",
+    "sku": "",
+    "product_url": "https://decor-opt.com.ua/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F-%D0%BF%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%B0/%D0%BF%D0%B5%D1%80%D0%BE-%D0%BC%D0%B5%D1%87-%D0%BF%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%B0-%D0%BA%D1%80%D0%B5%D0%BC%D0%BE%D0%B2%D0%BE%D0%B5-25-30%D1%81%D0%BC-1%D1%88%D1%82-detail.html",
+    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20ChatGPT%208%20%D0%BE%D0%BA%D1%82.%202026%20%D0%B3.,%2015_46_49-2%20copy_600x0.jpg",
+    "photo_index": 1,
+    "colors": [
+      {
+        "hex": "#FAF9F5",
+        "hue_deg": null,
+        "hue_from_deg": null,
+        "hue_to_deg": null,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 89.9,
+        "lightness_to": 100.0,
+        "lab_hue_deg": null,
+        "share": 0.5819,
+        "rgb": [
+          250,
+          249,
+          245
+        ],
+        "lab": [
+          97.93,
+          -0.34,
+          1.9
+        ]
+      },
+      {
+        "hex": "#D4C6B3",
+        "hue_deg": 34.5,
+        "hue_from_deg": 22.5,
+        "hue_to_deg": 46.5,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 72.4,
+        "lightness_to": 88.4,
+        "lab_hue_deg": 80.8,
+        "share": 0.4181,
+        "rgb": [
+          212,
+          198,
+          179
+        ],
+        "lab": [
+          80.45,
+          1.81,
+          11.18
+        ]
+      }
+    ],
+    "status": "ok",
+    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F-%D0%BF%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%B0/%D0%BF%D0%B5%D1%80%D0%BE-%D0%BC%D0%B5%D1%87-%D0%BF%D0%B0%D0%B2%D0%B8%D1%87%D0%B0-%D0%BA%D1%80%D0%B5%D0%BC%D0%BE%D0%B2%D0%B5-25-30%D1%81%D0%BC-1%D1%88%D1%82-detail.html",
+    "title_uk": null
+  },
+  {
+    "title": "Перо-меч павлина натуральное 25-30см/1шт",
+    "sku": "",
+    "product_url": "https://decor-opt.com.ua/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F-%D0%BF%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%B0/%D0%BF%D0%B5%D1%80%D0%BE-%D0%BC%D0%B5%D1%87-%D0%BF%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%B0-%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5-25-30%D1%81%D0%BC-1%D1%88%D1%82-detail.html",
+    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20ChatGPT%208%20%D0%BE%D0%BA%D1%82.%202026%20%D0%B3.,%2015_46_46-1%20copy_600x0.jpg",
+    "photo_index": 1,
+    "colors": [
+      {
+        "hex": "#2E5143",
+        "hue_deg": 156.0,
+        "hue_from_deg": 144.0,
+        "hue_to_deg": 168.0,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 23.4,
+        "lightness_to": 39.4,
+        "lab_hue_deg": 166.3,
+        "share": 0.466,
+        "rgb": [
+          46,
+          81,
+          67
+        ],
+        "lab": [
+          31.44,
+          -16.01,
+          3.9
+        ]
+      },
+      {
+        "hex": "#151F19",
+        "hue_deg": 144.0,
+        "hue_from_deg": 132.0,
+        "hue_to_deg": 156.0,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 2.7,
+        "lightness_to": 18.7,
+        "lab_hue_deg": 155.8,
+        "share": 0.2671,
+        "rgb": [
+          21,
+          31,
+          25
+        ],
+        "lab": [
+          10.66,
+          -6.2,
+          2.79
+        ]
+      },
+      {
+        "hex": "#847758",
+        "hue_deg": 42.3,
+        "hue_from_deg": 30.3,
+        "hue_to_deg": 54.3,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 42.4,
+        "lightness_to": 58.4,
+        "lab_hue_deg": 90.2,
+        "share": 0.267,
+        "rgb": [
+          132,
+          119,
+          88
+        ],
+        "lab": [
+          50.41,
+          -0.06,
+          18.67
+        ]
+      }
+    ],
+    "status": "ok",
+    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F-%D0%BF%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%B0/%D0%BF%D0%B5%D1%80%D0%BE-%D0%BC%D0%B5%D1%87-%D0%BF%D0%B0%D0%B2%D0%B8%D1%87%D0%B0-%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5-25-30%D1%81%D0%BC-1%D1%88%D1%82-detail.html",
+    "title_uk": null
+  },
+  {
+    "title": "Перо-меч павлина пудровое 25-30см/1шт",
+    "sku": "",
+    "product_url": "https://decor-opt.com.ua/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F-%D0%BF%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%B0/%D0%BF%D0%B5%D1%80%D0%BE-%D0%BC%D0%B5%D1%87-%D0%BF%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%B0-%D0%BF%D1%83%D0%B4%D1%80%D0%BE%D0%B2%D0%BE%D0%B5-25-30%D1%81%D0%BC-1%D1%88%D1%82-detail.html",
+    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20ChatGPT%208%20%D0%BE%D0%BA%D1%82.%202026%20%D0%B3.,%2015_47_13-7%20copy_600x0.jpg",
+    "photo_index": 1,
+    "colors": [
+      {
+        "hex": "#E0BCB1",
+        "hue_deg": 14.0,
+        "hue_from_deg": 2.0,
+        "hue_to_deg": 26.0,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 71.1,
+        "lightness_to": 87.1,
+        "lab_hue_deg": 43.6,
+        "share": 0.7925,
+        "rgb": [
+          224,
+          188,
+          177
+        ],
+        "lab": [
+          79.11,
+          11.18,
+          10.67
+        ]
+      },
+      {
+        "hex": "#EBD7B3",
+        "hue_deg": 38.6,
+        "hue_from_deg": 26.6,
+        "hue_to_deg": 50.6,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 78.7,
+        "lightness_to": 94.7,
+        "lab_hue_deg": 86.2,
+        "share": 0.2075,
+        "rgb": [
+          235,
+          215,
+          179
+        ],
+        "lab": [
+          86.72,
+          1.34,
+          20.03
+        ]
+      }
+    ],
+    "status": "ok",
+    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F-%D0%BF%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%B0/%D0%BF%D0%B5%D1%80%D0%BE-%D0%BC%D0%B5%D1%87-%D0%BF%D0%B0%D0%B2%D0%B8%D1%87%D0%B0-%D0%BF%D1%83%D0%B4%D1%80%D0%BE%D0%B2%D0%B5-25-30%D1%81%D0%BC-1%D1%88%D1%82-detail.html",
+    "title_uk": null
+  },
+  {
+    "title": "Перо-меч павлина розовое 25-30см/1шт",
+    "sku": "",
+    "product_url": "https://decor-opt.com.ua/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F-%D0%BF%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%B0/%D0%BF%D0%B5%D1%80%D0%BE-%D0%BC%D0%B5%D1%87-%D0%BF%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%B0-%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%D0%BE%D0%B5-25-30%D1%81%D0%BC-1%D1%88%D1%82-detail.html",
+    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20ChatGPT%208%20%D0%BE%D0%BA%D1%82.%202026%20%D0%B3.,%2015_47_11-6%20copy_600x0.jpg",
+    "photo_index": 1,
+    "colors": [
+      {
+        "hex": "#C7998F",
+        "hue_deg": 10.7,
+        "hue_from_deg": 358.7,
+        "hue_to_deg": 22.7,
+        "hue_wraps_zero": true,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 59.2,
+        "lightness_to": 75.2,
+        "lab_hue_deg": 37.3,
+        "share": 0.3433,
+        "rgb": [
+          199,
+          153,
+          143
+        ],
+        "lab": [
+          67.17,
+          15.71,
+          11.96
+        ]
+      },
+      {
+        "hex": "#CAA588",
+        "hue_deg": 26.4,
+        "hue_from_deg": 14.4,
+        "hue_to_deg": 38.4,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 62.4,
+        "lightness_to": 78.4,
+        "lab_hue_deg": 64.4,
+        "share": 0.3427,
+        "rgb": [
+          202,
+          165,
+          136
+        ],
+        "lab": [
+          70.35,
+          9.68,
+          20.17
+        ]
+      },
+      {
+        "hex": "#D69298",
+        "hue_deg": 354.7,
+        "hue_from_deg": 342.7,
+        "hue_to_deg": 6.7,
+        "hue_wraps_zero": true,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 59.4,
+        "lightness_to": 75.4,
+        "lab_hue_deg": 16.2,
+        "share": 0.314,
+        "rgb": [
+          214,
+          146,
+          152
+        ],
+        "lab": [
+          67.43,
+          26.41,
+          7.66
+        ]
+      }
+    ],
+    "status": "ok",
+    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F-%D0%BF%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%B0/%D0%BF%D0%B5%D1%80%D0%BE-%D0%BC%D0%B5%D1%87-%D0%BF%D0%B0%D0%B2%D0%B8%D1%87%D0%B0-%D1%80%D0%BE%D0%B6%D0%B5%D0%B2%D0%B5-25-30%D1%81%D0%BC-1%D1%88%D1%82-detail.html",
+    "title_uk": null
+  },
+  {
+    "title": "Перо-меч павлина синее 25-30см/1шт",
+    "sku": "",
+    "product_url": "https://decor-opt.com.ua/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F-%D0%BF%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%B0/%D0%BF%D0%B5%D1%80%D0%BE-%D0%BC%D0%B5%D1%87-%D0%BF%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%B0-%D1%81%D0%B8%D0%BD%D0%B5%D0%B5-25-30%D1%81%D0%BC-1%D1%88%D1%82-detail.html",
+    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20ChatGPT%208%20%D0%BE%D0%BA%D1%82.%202026%20%D0%B3.,%2015_47_09-5%20copy_600x0.jpg",
+    "photo_index": 1,
+    "colors": [
+      {
+        "hex": "#4B4C8E",
+        "hue_deg": 239.1,
+        "hue_from_deg": 227.1,
+        "hue_to_deg": 251.1,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 27.1,
+        "lightness_to": 43.1,
+        "lab_hue_deg": 296.4,
+        "share": 1.0,
+        "rgb": [
+          75,
+          76,
+          142
+        ],
+        "lab": [
+          35.14,
+          18.23,
+          -36.8
+        ]
+      }
+    ],
+    "status": "ok",
+    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F-%D0%BF%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%B0/%D0%BF%D0%B5%D1%80%D0%BE-%D0%BC%D0%B5%D1%87-%D0%BF%D0%B0%D0%B2%D0%B8%D1%87%D0%B0-%D1%81%D0%B8%D0%BD%D1%94-25-30%D1%81%D0%BC-1%D1%88%D1%82-detail.html",
+    "title_uk": null
+  },
+  {
+    "title": "Перо-меч павлина сиреневое 25-30см/1шт",
+    "sku": "",
+    "product_url": "https://decor-opt.com.ua/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F-%D0%BF%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%B0/%D0%BF%D0%B5%D1%80%D0%BE-%D0%BC%D0%B5%D1%87-%D0%BF%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%B0-%D1%81%D0%B8%D1%80%D0%B5%D0%BD%D0%B5%D0%B2%D0%BE%D0%B5-25-30%D1%81%D0%BC-1%D1%88%D1%82-detail.html",
+    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20ChatGPT%208%20%D0%BE%D0%BA%D1%82.%202026%20%D0%B3.,%2015_47_03-3%20copy_600x0.jpg",
+    "photo_index": 1,
+    "colors": [
+      {
+        "hex": "#BB86AD",
+        "hue_deg": 315.8,
+        "hue_from_deg": 303.8,
+        "hue_to_deg": 327.8,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 54.3,
+        "lightness_to": 70.3,
+        "lab_hue_deg": 335.0,
+        "share": 0.4837,
+        "rgb": [
+          187,
+          134,
+          173
+        ],
+        "lab": [
+          62.35,
+          26.57,
+          -12.4
+        ]
+      },
+      {
+        "hex": "#9A787D",
+        "hue_deg": 351.2,
+        "hue_from_deg": 339.2,
+        "hue_to_deg": 3.2,
+        "hue_wraps_zero": true,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 45.7,
+        "lightness_to": 61.7,
+        "lab_hue_deg": 9.1,
+        "share": 0.3657,
+        "rgb": [
+          154,
+          120,
+          125
+        ],
+        "lab": [
+          53.75,
+          14.43,
+          2.32
+        ]
+      },
+      {
+        "hex": "#E2B5A3",
+        "hue_deg": 17.1,
+        "hue_from_deg": 5.1,
+        "hue_to_deg": 29.1,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 69.3,
+        "lightness_to": 85.3,
+        "lab_hue_deg": 48.7,
+        "share": 0.1507,
+        "rgb": [
+          226,
+          181,
+          163
+        ],
+        "lab": [
+          77.26,
+          13.63,
+          15.54
+        ]
+      }
+    ],
+    "status": "ok",
+    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F-%D0%BF%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%B0/%D0%BF%D0%B5%D1%80%D0%BE-%D0%BC%D0%B5%D1%87-%D0%BF%D0%B0%D0%B2%D0%B8%D1%87%D0%B0-%D0%B1%D1%83%D0%B7%D0%BA%D0%BE%D0%B2%D0%B5-25-30%D1%81%D0%BC-1%D1%88%D1%82-detail.html",
+    "title_uk": null
+  },
+  {
     "title": "Перо-подвеска с пухом 10-13см 10 шт",
     "sku": "",
     "product_url": "https://decor-opt.com.ua/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D0%B5%D1%80%D1%8C%D0%B5%D0%B2%D0%BE%D0%B9-%D0%B4%D0%B5%D0%BA%D0%BE%D1%80/%D0%BF%D0%B5%D1%80%D0%BE-%D0%BF%D0%BE%D0%B4%D0%B2%D0%B5%D1%81%D0%BA%D0%B0-%D1%81-%D0%BF%D1%83%D1%85%D0%BE%D0%BC-10-13%D1%81%D0%BC-10-%D1%88%D1%82-13634-detail.html",
@@ -282234,6 +282792,122 @@
     "title_uk": "Підвіска з пір'ям з пухом 10-13см 10 шт"
   },
   {
+    "title": "Перо-полоса белая ювел. 12-20см/50шт",
+    "sku": "",
+    "product_url": "https://decor-opt.com.ua/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D0%B5%D1%80%D1%8C%D0%B5%D0%B2%D0%BE%D0%B9-%D0%B4%D0%B5%D0%BA%D0%BE%D1%80/%D0%BF%D0%B5%D1%80%D0%BE-%D0%BF%D0%BE%D0%BB%D0%BE%D1%81%D0%B0-%D0%B1%D0%B5%D0%BB%D0%B0%D1%8F-%D1%8E%D0%B2%D0%B5%D0%BB-12-20%D1%81%D0%BC-50%D1%88%D1%82-detail.html",
+    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20085%20(%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F4_600x0.jpg",
+    "photo_index": 1,
+    "colors": [
+      {
+        "hex": "#DCDEE4",
+        "hue_deg": null,
+        "hue_from_deg": null,
+        "hue_to_deg": null,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 80.5,
+        "lightness_to": 96.5,
+        "lab_hue_deg": null,
+        "share": 0.5722,
+        "rgb": [
+          220,
+          222,
+          228
+        ],
+        "lab": [
+          88.48,
+          0.66,
+          -3.23
+        ]
+      },
+      {
+        "hex": "#766E5B",
+        "hue_deg": 42.2,
+        "hue_from_deg": 30.2,
+        "hue_to_deg": 54.2,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 38.7,
+        "lightness_to": 54.7,
+        "lab_hue_deg": 91.3,
+        "share": 0.4278,
+        "rgb": [
+          118,
+          110,
+          91
+        ],
+        "lab": [
+          46.72,
+          -0.27,
+          11.68
+        ]
+      }
+    ],
+    "status": "ok",
+    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D0%B5%D1%80%D1%8C%D0%B5%D0%B2%D0%BE%D0%B9-%D0%B4%D0%B5%D0%BA%D0%BE%D1%80/%D0%BF%D0%B5%D1%80%D0%BE-%D0%BF%D0%BE%D0%BB%D0%BE%D1%81%D0%B0-%D0%B1%D1%96%D0%BB%D0%B5-12-20%D1%81%D0%BC-50%D1%88%D1%82-detail.html",
+    "title_uk": null
+  },
+  {
+    "title": "Перо-полоса белая ювел. 12-20см/50шт",
+    "sku": "",
+    "product_url": "https://decor-opt.com.ua/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F-%D0%B2-%D0%BF%D0%B0%D1%87%D0%BA%D0%B0%D1%85/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F-%D0%B1%D0%B5%D0%BB%D1%8B%D0%B5-%D0%B8-%D1%87%D0%B5%D1%80%D0%BD%D1%8B%D0%B5/%D0%BF%D0%B5%D1%80%D0%BE-%D0%BF%D0%BE%D0%BB%D0%BE%D1%81%D0%B0-%D0%B1%D0%B5%D0%BB%D0%B0%D1%8F-%D1%8E%D0%B2%D0%B5%D0%BB-12-20%D1%81%D0%BC-50%D1%88%D1%82-detail.html",
+    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20085%20(%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F4_600x0.jpg",
+    "photo_index": 1,
+    "colors": [
+      {
+        "hex": "#DCDEE4",
+        "hue_deg": null,
+        "hue_from_deg": null,
+        "hue_to_deg": null,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 80.5,
+        "lightness_to": 96.5,
+        "lab_hue_deg": null,
+        "share": 0.5722,
+        "rgb": [
+          220,
+          222,
+          228
+        ],
+        "lab": [
+          88.48,
+          0.66,
+          -3.23
+        ]
+      },
+      {
+        "hex": "#766E5B",
+        "hue_deg": 42.2,
+        "hue_from_deg": 30.2,
+        "hue_to_deg": 54.2,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 38.7,
+        "lightness_to": 54.7,
+        "lab_hue_deg": 91.3,
+        "share": 0.4278,
+        "rgb": [
+          118,
+          110,
+          91
+        ],
+        "lab": [
+          46.72,
+          -0.27,
+          11.68
+        ]
+      }
+    ],
+    "status": "ok",
+    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D1%96%D1%80%D1%8F-%D0%B2-%D0%BF%D0%B0%D1%87%D0%BA%D0%B0%D1%85/%D0%BF%D1%96%D1%80%D1%8F-%D0%B1%D1%96%D0%BB%D0%B5-%D1%82%D0%B0-%D1%87%D0%BE%D1%80%D0%BD%D0%B5/%D0%BF%D0%B5%D1%80%D0%BE-%D0%BF%D0%BE%D0%BB%D0%BE%D1%81%D0%B0-%D0%B1%D1%96%D0%BB%D0%B5-12-20%D1%81%D0%BC-50%D1%88%D1%82-detail.html",
+    "title_uk": null
+  },
+  {
     "title": "Перо-полоса бордовая ювел. 12-20см/50шт",
     "sku": "",
     "product_url": "https://decor-opt.com.ua/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D0%B5%D1%80%D1%8C%D0%B5%D0%B2%D0%BE%D0%B9-%D0%B4%D0%B5%D0%BA%D0%BE%D1%80/%D0%BF%D0%B5%D1%80%D0%BE-%D0%BF%D0%BE%D0%BB%D0%BE%D1%81%D0%B0-%D0%BA%D1%83%D0%BA%D1%83%D1%80%D1%83%D0%B7%D0%BD%D0%B0%D1%8F-%D1%8E%D0%B2%D0%B5%D0%BB-12-20%D1%81%D0%BC-50%D1%88%D1%82-7890-17781-17782-17783-17784-detail.html",
@@ -282603,6 +283277,76 @@
     ],
     "status": "ok",
     "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D1%96%D1%80%D1%8F-%D0%B2-%D0%BF%D0%B0%D1%87%D0%BA%D0%B0%D1%85/%D0%BF%D1%96%D1%80%D1%8F-%D0%BA%D0%BE%D0%BB%D1%8C%D0%BE%D1%80%D0%BE%D0%B2%D1%96-50%D1%88%D1%82/%D0%BF%D0%B5%D1%80%D0%BE-%D0%BF%D0%BE%D0%BB%D0%BE%D1%81%D0%B0-%D1%87%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B5-%D1%8E%D0%B2%D0%B5%D0%BB-12-20%D1%81%D0%BC-50%D1%88%D1%82-detail.html",
+    "title_uk": null
+  },
+  {
+    "title": "Перо-полоса кремовая ювел. 12-20см/50шт",
+    "sku": "",
+    "product_url": "https://decor-opt.com.ua/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D0%B5%D1%80%D1%8C%D0%B5%D0%B2%D0%BE%D0%B9-%D0%B4%D0%B5%D0%BA%D0%BE%D1%80/%D0%BF%D0%B5%D1%80%D0%BE-%D0%BF%D0%BE%D0%BB%D0%BE%D1%81%D0%B0-%D0%BA%D1%83%D0%BA%D1%83%D1%80%D1%83%D0%B7%D0%BD%D0%B0%D1%8F-%D1%8E%D0%B2%D0%B5%D0%BB-12-20%D1%81%D0%BC-50%D1%88%D1%82-7890-17781-17782-detail.html",
+    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/20240729_174711%20(%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)_600x0.jpg",
+    "photo_index": 1,
+    "colors": [
+      {
+        "hex": "#C1B8A5",
+        "hue_deg": 40.7,
+        "hue_from_deg": 28.7,
+        "hue_to_deg": 52.7,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 67.0,
+        "lightness_to": 83.0,
+        "lab_hue_deg": 90.2,
+        "share": 1.0,
+        "rgb": [
+          193,
+          184,
+          165
+        ],
+        "lab": [
+          75.03,
+          -0.03,
+          10.64
+        ]
+      }
+    ],
+    "status": "ok",
+    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D0%B5%D1%80%D1%8C%D0%B5%D0%B2%D0%BE%D0%B9-%D0%B4%D0%B5%D0%BA%D0%BE%D1%80/%D0%BF%D0%B5%D1%80%D0%BE-%D0%BF%D0%BE%D0%BB%D0%BE%D1%81%D0%B0-%D0%BA%D1%80%D0%B5%D0%BC%D0%BE%D0%B2%D0%B5-%D0%B4%D0%BB%D1%8F-%D1%8E%D0%B2%D0%B5%D0%BB-12-20%D1%81%D0%BC-50%D1%88%D1%82-detail.html",
+    "title_uk": null
+  },
+  {
+    "title": "Перо-полоса кремовая ювел. 12-20см/50шт",
+    "sku": "",
+    "product_url": "https://decor-opt.com.ua/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F-%D0%B2-%D0%BF%D0%B0%D1%87%D0%BA%D0%B0%D1%85/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F-%D1%86%D0%B2%D0%B5%D1%82%D0%BD%D1%8B%D0%B5-50%D1%88%D1%82/%D0%BF%D0%B5%D1%80%D0%BE-%D0%BF%D0%BE%D0%BB%D0%BE%D1%81%D0%B0-%D0%BA%D1%83%D0%BA%D1%83%D1%80%D1%83%D0%B7%D0%BD%D0%B0%D1%8F-%D1%8E%D0%B2%D0%B5%D0%BB-12-20%D1%81%D0%BC-50%D1%88%D1%82-7890-17781-17782-detail.html",
+    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/20240729_174711%20(%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)_600x0.jpg",
+    "photo_index": 1,
+    "colors": [
+      {
+        "hex": "#C1B8A5",
+        "hue_deg": 40.7,
+        "hue_from_deg": 28.7,
+        "hue_to_deg": 52.7,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 67.0,
+        "lightness_to": 83.0,
+        "lab_hue_deg": 90.2,
+        "share": 1.0,
+        "rgb": [
+          193,
+          184,
+          165
+        ],
+        "lab": [
+          75.03,
+          -0.03,
+          10.64
+        ]
+      }
+    ],
+    "status": "ok",
+    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D1%96%D1%80%D1%8F-%D0%B2-%D0%BF%D0%B0%D1%87%D0%BA%D0%B0%D1%85/%D0%BF%D1%96%D1%80%D1%8F-%D0%BA%D0%BE%D0%BB%D1%8C%D0%BE%D1%80%D0%BE%D0%B2%D1%96-50%D1%88%D1%82/%D0%BF%D0%B5%D1%80%D0%BE-%D0%BF%D0%BE%D0%BB%D0%BE%D1%81%D0%B0-%D0%BA%D1%80%D0%B5%D0%BC%D0%BE%D0%B2%D0%B5-%D0%B4%D0%BB%D1%8F-%D1%8E%D0%B2%D0%B5%D0%BB-12-20%D1%81%D0%BC-50%D1%88%D1%82-detail.html",
     "title_uk": null
   },
   {
@@ -286409,7 +287153,7 @@
     "colors": [],
     "status": "review: no non-gray product pixels",
     "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D0%B5%D1%80%D0%BE-%D1%8E%D0%B1%D0%BA%D0%B0/%D0%BF%D1%96%D1%80%D1%94%D0%B2%D0%B0-%D0%BF%D1%83%D1%85%D0%BE%D0%B2%D0%B0-%D1%81%D0%BF%D1%96%D0%B4%D0%BD%D0%B8%D1%87%D0%BA%D0%B0-%D1%81%D0%B2%D1%96%D1%82%D0%BB%D0%BE-%D1%81%D1%96%D1%80%D0%B0-8-10%D1%81%D0%BC-45-47%D1%81%D0%BC-detail.html",
-    "title_uk": "Пір'єва пухова спідничка світло-сіра 8-10см/45-47см"
+    "title_uk": null
   },
   {
     "title": "Перо-юбка пуховая синяя 8-10см/45-47см",
@@ -286455,7 +287199,7 @@
     "colors": [],
     "status": "review: no non-gray product pixels",
     "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D0%B5%D1%80%D0%BE-%D1%8E%D0%B1%D0%BA%D0%B0/%D0%BF%D1%96%D1%80%D1%94%D0%B2%D0%B0-%D0%BF%D1%83%D1%85%D0%BE%D0%B2%D0%B0-%D1%81%D0%BF%D1%96%D0%B4%D0%BD%D0%B8%D1%87%D0%BA%D0%B0-%D1%82%D0%B5%D0%BC%D0%BD%D0%BE-%D1%81%D1%96%D1%80%D0%B0-8-10%D1%81%D0%BC-45-47%D1%81%D0%BC-detail.html",
-    "title_uk": "Пір'єва пухова спідничка темно-сіра 8-10см/45-47см"
+    "title_uk": null
   },
   {
     "title": "Перо-юбка пуховая темно-фиолетовая 8-10см/45-47см",
@@ -288447,7 +289191,7 @@
     "colors": [],
     "status": "review: no non-gray product pixels",
     "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D0%B5%D1%80%D0%BE-%D1%8E%D0%B1%D0%BA%D0%B0/%D0%BF%D0%B5%D1%80%D0%BE-%D1%8E%D0%B1%D0%BA%D0%B0-%D1%81%D1%82%D1%80%D0%B0%D1%83%D1%81%D0%B0-%D1%82%D0%B5%D0%BC%D0%BD%D0%BE-%D1%81%D0%B5%D1%80%D0%B0%D1%8F-10-18%D1%81%D0%BC-45-47%D1%81%D0%BC-detail.html",
-    "title_uk": "Спідниця зі страусиного пір'я темно-сіра 10-18см/45-47см"
+    "title_uk": null
   },
   {
     "title": "Перо-юбка страуса фиолетовая 10-18см45-47см",
@@ -290066,6 +290810,41 @@
     "status": "ok",
     "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D1%96%D1%80%D1%8F-%D0%B2-%D0%BF%D0%B0%D1%87%D0%BA%D0%B0%D1%85/%D0%BF%D1%96%D1%80%D1%8F-%D0%BA%D0%BE%D0%BB%D1%8C%D0%BE%D1%80%D0%BE%D0%B2%D1%96-100%D1%88%D1%82/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F-%D0%B2%D0%B0%D0%BD%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-11-%D0%B3%D1%80-150-%D1%88%D1%82-detail.html",
     "title_uk": "Пір'я ванілі ≈11 гр ≈150 шт"
+  },
+  {
+    "title": "Перья винного оттенка 12-15 см 50шт",
+    "sku": "",
+    "product_url": "https://decor-opt.com.ua/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F-%D0%B2-%D0%BF%D0%B0%D1%87%D0%BA%D0%B0%D1%85/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F-%D1%86%D0%B2%D0%B5%D1%82%D0%BD%D1%8B%D0%B5-50%D1%88%D1%82/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F-%D0%B2%D0%B8%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE%D1%82%D1%82%D0%B5%D0%BD%D0%BA%D0%B0-12-15-%D1%81%D0%BC-50%D1%88%D1%82-detail.html",
+    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/20261008_141134%20copy_600x0.jpg",
+    "photo_index": 1,
+    "colors": [
+      {
+        "hex": "#5A1422",
+        "hue_deg": 348.0,
+        "hue_from_deg": 336.0,
+        "hue_to_deg": 0.0,
+        "hue_wraps_zero": true,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 11.1,
+        "lightness_to": 27.1,
+        "lab_hue_deg": 16.0,
+        "share": 1.0,
+        "rgb": [
+          90,
+          20,
+          34
+        ],
+        "lab": [
+          19.06,
+          32.6,
+          9.35
+        ]
+      }
+    ],
+    "status": "ok",
+    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D1%96%D1%80%D1%8F-%D0%B2-%D0%BF%D0%B0%D1%87%D0%BA%D0%B0%D1%85/%D0%BF%D1%96%D1%80%D1%8F-%D0%BA%D0%BE%D0%BB%D1%8C%D0%BE%D1%80%D0%BE%D0%B2%D1%96-50%D1%88%D1%82/%D0%BF%D1%96%D1%80%D1%8F-%D0%B2%D0%B8%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B2%D1%96%D0%B4%D1%82%D1%96%D0%BD%D0%BA%D1%83-12-15-%D1%81%D0%BC-50%D1%88%D1%82-detail.html",
+    "title_uk": null
   },
   {
     "title": "Перья винного оттенка 15-20 см 50 шт",
@@ -300941,7 +301720,7 @@
     "colors": [],
     "status": "review: no non-gray product pixels",
     "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F/%D0%BF%D1%96%D1%80%D1%8F-%D0%B2-%D0%BF%D0%B0%D1%87%D0%BA%D0%B0%D1%85/%D0%BF%D1%96%D1%80%D1%8F-%D0%BA%D0%BE%D0%BB%D1%8C%D0%BE%D1%80%D0%BE%D0%B2%D1%96-50%D1%88%D1%82/%D0%BF%D0%B5%D1%80%D1%8C%D1%8F-%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B5-%D0%BF%D1%83%D1%85%D0%BE%D0%B2%D1%8B%D0%B5-%D0%BF%D1%80%D0%BE%D1%80%D0%B5%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5-6-13%D1%81%D0%BC-50%D1%88%D1%82-14797-14801-15520-15521-16840-16841-17290-detail.html",
-    "title_uk": "Темно-сірі пухові пір'я проріджені 8-16см 50шт"
+    "title_uk": null
   },
   {
     "title": "Перья темно-синего оттенка 5-15 см 100 шт",
@@ -316778,87 +317557,6 @@
     "title_uk": "Ґудзики дерев'яні 290гр 15-40мм/≈350-400шт.1"
   },
   {
-    "title": "Пуговицы деревянные Бабочка 28мм/50шт",
-    "sku": "",
-    "product_url": "https://decor-opt.com.ua/novinki/%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C-%D0%BF%D1%83%D0%B3%D0%BE%D0%B2%D0%B8%D1%86%D1%8B-%D0%BE%D0%BF%D1%82%D0%BE%D0%BC/%D0%BF%D1%83%D0%B3%D0%BE%D0%B2%D0%B8%D1%86%D1%8B-%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D1%8F%D0%BD%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B8%D0%BA%D1%8120-25%D0%BC%D0%BC-100%D1%88%D1%82-%D0%BD%D0%B0%D0%B1-1-15597-15598-15599-15600-detail.html",
-    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/20220707_174253%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F_600x0.jpg",
-    "photo_index": 1,
-    "colors": [
-      {
-        "hex": "#64372B",
-        "hue_deg": 12.6,
-        "hue_from_deg": 0.6,
-        "hue_to_deg": 24.6,
-        "hue_wraps_zero": false,
-        "delta_e_likely": 10.0,
-        "delta_e_review": 15.0,
-        "lightness_from": 20.4,
-        "lightness_to": 36.4,
-        "lab_hue_deg": 41.0,
-        "share": 0.5425,
-        "rgb": [
-          100,
-          55,
-          43
-        ],
-        "lab": [
-          28.37,
-          18.64,
-          16.2
-        ]
-      },
-      {
-        "hex": "#C2A586",
-        "hue_deg": 31.0,
-        "hue_from_deg": 19.0,
-        "hue_to_deg": 43.0,
-        "hue_wraps_zero": false,
-        "delta_e_likely": 10.0,
-        "delta_e_review": 15.0,
-        "lightness_from": 61.6,
-        "lightness_to": 77.6,
-        "lab_hue_deg": 73.1,
-        "share": 0.2982,
-        "rgb": [
-          194,
-          165,
-          134
-        ],
-        "lab": [
-          69.62,
-          6.08,
-          20.01
-        ]
-      },
-      {
-        "hex": "#AA9938",
-        "hue_deg": 51.1,
-        "hue_from_deg": 39.1,
-        "hue_to_deg": 63.1,
-        "hue_wraps_zero": false,
-        "delta_e_likely": 10.0,
-        "delta_e_review": 15.0,
-        "lightness_from": 55.0,
-        "lightness_to": 71.0,
-        "lab_hue_deg": 95.5,
-        "share": 0.1593,
-        "rgb": [
-          170,
-          153,
-          56
-        ],
-        "lab": [
-          62.97,
-          -4.88,
-          51.11
-        ]
-      }
-    ],
-    "status": "ok",
-    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C-%D0%BF%D1%83%D0%B3%D0%BE%D0%B2%D0%B8%D1%86%D1%8B-%D0%BE%D0%BF%D1%82%D0%BE%D0%BC/%D0%BF%D1%83%D0%B3%D0%BE%D0%B2%D0%B8%D1%86%D1%8B-%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D1%8F%D0%BD%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B8%D0%BA%D1%8120-25%D0%BC%D0%BC-100%D1%88%D1%82-%D0%BD%D0%B0%D0%B1-1-15597-15598-15599-15600-detail.html",
-    "title_uk": "Дерев'яні ґудзики-метелики 28мм/50шт"
-  },
-  {
     "title": "Пуговицы деревянные в контейнере 10-20мм//~55шт",
     "sku": "",
     "product_url": "https://decor-opt.com.ua/novinki/%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C-%D0%BF%D1%83%D0%B3%D0%BE%D0%B2%D0%B8%D1%86%D1%8B-%D0%BE%D0%BF%D1%82%D0%BE%D0%BC/%D0%BF%D1%83%D0%B3%D0%BE%D0%B2%D0%B8%D1%86%D1%8B-%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D1%8F%D0%BD%D0%BD%D1%8B%D0%B5-%D0%B2-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80%D0%B5-10-20%D0%BC%D0%BC-55%D1%88%D1%82-14232-detail.html",
@@ -329364,7 +330062,7 @@
     "colors": [],
     "status": "review: no non-gray product pixels",
     "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%B4%D0%BB%D1%8F-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BA%D1%83%D0%BA%D0%BE%D0%BB/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%B0%D1%80%D0%B8%D0%BA%D0%BE%D0%B2-%D0%BA%D1%83%D0%BA%D0%BE%D0%BB/%D1%81%D0%B8%D0%BB%D0%B8%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0-%D0%BF%D0%B0%D1%80%D0%B8%D0%BA%D0%B0-%D0%BA%D1%83%D0%BA%D0%BE%D0%BB-3,0%D1%81%D0%BC-detail.html",
-    "title_uk": "Силіконова основа для перуки для ляльок 3,0см"
+    "title_uk": null
   },
   {
     "title": "Силиконовая основа парика кукол 6,0 см",
@@ -348300,6 +348998,41 @@
   {
     "title": "Фетр 40х50см 1мм/1шт",
     "sku": "",
+    "product_url": "https://decor-opt.com.ua/novinki/%D1%84%D0%B5%D1%82%D1%80-%D0%B8-%D0%B8%D0%B7%D0%B4%D0%B5%D0%BB%D0%B8%D1%8F/fetr-i-pomponi/%D1%84%D0%B5%D1%82%D1%80-40%D1%8550%D1%81%D0%BC-1%D0%BC%D0%BC-1%D1%88%D1%82-2-12539-detail.html",
+    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/20261009_171935%20copy_600x0.jpg",
+    "photo_index": 1,
+    "colors": [
+      {
+        "hex": "#DCD77E",
+        "hue_deg": 56.8,
+        "hue_from_deg": 44.8,
+        "hue_to_deg": 68.8,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 76.6,
+        "lightness_to": 92.6,
+        "lab_hue_deg": 103.7,
+        "share": 1.0,
+        "rgb": [
+          220,
+          215,
+          126
+        ],
+        "lab": [
+          84.63,
+          -10.8,
+          44.42
+        ]
+      }
+    ],
+    "status": "ok",
+    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D1%84%D0%B5%D1%82%D1%80-%D0%B8-%D0%B8%D0%B7%D0%B4%D0%B5%D0%BB%D0%B8%D1%8F/fetr-i-pomponi/%D1%84%D0%B5%D1%82%D1%80-40%D1%8550%D1%81%D0%BC-1%D0%BC%D0%BC-1%D1%88%D1%82-no6-12539-detail.html",
+    "title_uk": null
+  },
+  {
+    "title": "Фетр 40х50см 1мм/1шт",
+    "sku": "",
     "product_url": "https://decor-opt.com.ua/novinki/%D1%84%D0%B5%D1%82%D1%80-%D0%B8-%D0%B8%D0%B7%D0%B4%D0%B5%D0%BB%D0%B8%D1%8F/fetr-i-pomponi/%D1%84%D0%B5%D1%82%D1%80-40%D1%8550%D1%81%D0%BC-1%D0%BC%D0%BC-1%D1%88%D1%82-2-detail.html",
     "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/20190404_122705%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F_600x0.jpg",
     "photo_index": 1,
@@ -348506,6 +349239,41 @@
     "status": "ok",
     "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D1%84%D0%B5%D1%82%D1%80-%D0%B8-%D0%B8%D0%B7%D0%B4%D0%B5%D0%BB%D0%B8%D1%8F/fetr-i-pomponi/%D1%84%D0%B5%D1%82%D1%80-40%D1%8550%D1%81%D0%BC-1%D0%BC%D0%BC-1%D1%88%D1%82-no5-detail.html",
     "title_uk": "Фетр 40х50см 1мм/1шт No5"
+  },
+  {
+    "title": "Фетр ассорти 40х50см 1мм/1шт",
+    "sku": "",
+    "product_url": "https://decor-opt.com.ua/novinki/%D1%84%D0%B5%D1%82%D1%80-%D0%B8-%D0%B8%D0%B7%D0%B4%D0%B5%D0%BB%D0%B8%D1%8F/fetr-i-pomponi/%D1%84%D0%B5%D1%82%D1%80-%D0%B0%D1%81%D1%81%D0%BE%D1%80%D1%82%D0%B8-40%D1%8550%D1%81%D0%BC-1%D0%BC%D0%BC-1%D1%88%D1%82-detail.html",
+    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/20261009_172156%20copy_600x0.jpg",
+    "photo_index": 1,
+    "colors": [
+      {
+        "hex": "#B8BC88",
+        "hue_deg": 64.6,
+        "hue_from_deg": 52.6,
+        "hue_to_deg": 76.6,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 66.7,
+        "lightness_to": 82.7,
+        "lab_hue_deg": 111.0,
+        "share": 1.0,
+        "rgb": [
+          184,
+          188,
+          136
+        ],
+        "lab": [
+          74.66,
+          -9.86,
+          25.66
+        ]
+      }
+    ],
+    "status": "ok",
+    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D1%84%D0%B5%D1%82%D1%80-%D0%B8-%D0%B8%D0%B7%D0%B4%D0%B5%D0%BB%D0%B8%D1%8F/fetr-i-pomponi/%D1%84%D0%B5%D1%82%D1%80-%D0%B0%D1%81%D0%BE%D1%80%D1%82%D1%96-40%D1%8550%D1%81%D0%BC-1%D0%BC%D0%BC-1%D1%88%D1%82-detail.html",
+    "title_uk": null
   },
   {
     "title": "Фетр белый 40*50см 1,0мм/20шт F31",
@@ -349944,7 +350712,7 @@
     "colors": [],
     "status": "review: no non-gray product pixels",
     "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D1%84%D0%B5%D1%82%D1%80-%D0%B8-%D0%B8%D0%B7%D0%B4%D0%B5%D0%BB%D0%B8%D1%8F/fetr-i-pomponi/%D1%84%D0%B5%D1%82%D1%80-%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE-%D1%81%D0%B5%D1%80%D1%8B%D0%B9-40%D1%8550%D1%81%D0%BC-1,0%D0%BC%D0%BC-20%D1%88%D1%82-f82-14814-detail.html",
-    "title_uk": "Фетр світло-сірий 40х50см 1,0мм/20шт F82"
+    "title_uk": null
   },
   {
     "title": "Фетр синий 40х50см 1,0мм/20шт F70",
@@ -360520,7 +361288,7 @@
     "colors": [],
     "status": "review: no non-gray product pixels",
     "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D1%84%D0%BE%D0%B0%D0%BC%D0%B8%D1%80%D0%B0%D0%BD/%D1%84%D0%BE%D0%B0%D0%BC%D0%B8%D1%80%D0%B0%D0%BD-%D1%81-%D0%B3%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%BE%D0%BC-%D1%81%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D0%BE-2%D0%BC%D0%BC-20%D1%8530%D1%81%D0%BC-10%D1%88%D1%82-6170-detail.html",
-    "title_uk": "Фоаміран з блискітками сріблястий 1,8мм/20х30см/10шт"
+    "title_uk": null
   },
   {
     "title": "Фоамиран с глитером сиреневый 2мм/20х30см/10шт 019",
@@ -374166,6 +374934,64 @@
     "status": "ok",
     "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%BA-%D1%81%D0%B2%D0%B0%D0%B4%D0%B5%D0%B1%D0%BD%D0%BE%D0%BC%D1%83-%D1%83%D0%BA%D1%80%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D1%8E/%D1%88%D1%82%D0%BE%D1%80%D1%8B-%D0%BD%D0%B8%D1%82%D0%B8-%D0%B1%D0%B0%D0%B1%D0%BE%D1%87%D0%BA%D0%B8-%D0%BC%D0%B0%D0%BB%D0%B8%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-100%D1%85200%D1%81%D0%BC-detail.html",
     "title_uk": "Нитяні штори Метелики малинові 100х200см"
+  },
+  {
+    "title": "Эльф с грибами 13см",
+    "sku": "",
+    "product_url": "https://decor-opt.com.ua/novinki/%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B5-%D0%B8%D0%B7%D0%B4%D0%B5%D0%BB%D0%B8%D1%8F-%D0%B4%D0%BB%D1%8F-%D0%B4%D0%B5%D0%BA%D0%BE%D1%80%D0%B0-%D0%B8-%D0%BF%D0%BE%D0%B4%D0%B0%D1%80%D0%BA%D0%B8/%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%BA%D0%B8-%D0%B8-%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%8D%D1%82%D0%BA%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%B4%D0%B5%D0%BA%D0%BE%D1%80%D0%B0/%D1%8D%D0%BB%D1%8C%D1%84-%D1%81-%D0%B3%D1%80%D0%B8%D0%B1%D0%B0%D0%BC%D0%B8-13%D1%81%D0%BC-detail.html",
+    "image_url": "https://decor-opt.com.ua/images/stories/virtuemart/product/resized/20201110_174126%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F_600x0.jpg",
+    "photo_index": 1,
+    "colors": [
+      {
+        "hex": "#876D34",
+        "hue_deg": 41.2,
+        "hue_from_deg": 29.2,
+        "hue_to_deg": 53.2,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 39.4,
+        "lightness_to": 55.4,
+        "lab_hue_deg": 85.0,
+        "share": 0.6807,
+        "rgb": [
+          135,
+          109,
+          52
+        ],
+        "lab": [
+          47.45,
+          3.11,
+          35.27
+        ]
+      },
+      {
+        "hex": "#5C331E",
+        "hue_deg": 20.3,
+        "hue_from_deg": 8.3,
+        "hue_to_deg": 32.3,
+        "hue_wraps_zero": false,
+        "delta_e_likely": 10.0,
+        "delta_e_review": 15.0,
+        "lightness_from": 17.9,
+        "lightness_to": 33.9,
+        "lab_hue_deg": 51.1,
+        "share": 0.3193,
+        "rgb": [
+          92,
+          51,
+          30
+        ],
+        "lab": [
+          25.9,
+          16.71,
+          20.71
+        ]
+      }
+    ],
+    "status": "ok",
+    "product_url_uk": "https://decor-opt.com.ua/uk/novinki/%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B5-%D0%B8%D0%B7%D0%B4%D0%B5%D0%BB%D0%B8%D1%8F-%D0%B4%D0%BB%D1%8F-%D0%B4%D0%B5%D0%BA%D0%BE%D1%80%D0%B0-%D0%B8-%D0%BF%D0%BE%D0%B4%D0%B0%D1%80%D0%BA%D0%B8/%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%BA%D0%B8-%D0%B8-%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%8D%D1%82%D0%BA%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%B4%D0%B5%D0%BA%D0%BE%D1%80%D0%B0/%D1%8D%D0%BB%D1%8C%D1%84-%D1%81-%D0%B3%D1%80%D0%B8%D0%B1%D0%B0%D0%BC%D0%B8-13%D1%81%D0%BC-detail.html",
+    "title_uk": null
   },
   {
     "title": "Эльф с книгой 12см",
