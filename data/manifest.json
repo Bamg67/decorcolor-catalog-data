@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "version": "2026.11.02.9527777b",
-  "generatedAt": "2026-11-02T11:33:47.793278Z",
-  "products": 7202,
-  "coloredProducts": 7140,
+  "version": "2026.11.09.5c7a5bd5",
+  "generatedAt": "2026-11-09T11:58:47.796060Z",
+  "products": 7192,
+  "coloredProducts": 7130,
   "reviewProducts": 62,
-  "ukLinkedProducts": 7202,
+  "ukLinkedProducts": 7192,
   "catalogUrl": "https://raw.githubusercontent.com/Bamg67/decorcolor-catalog-data/main/data/catalog-colors.json",
   "csvUrl": "https://raw.githubusercontent.com/Bamg67/decorcolor-catalog-data/main/data/catalog-colors.csv",
-  "sha256": "9527777b9198d7b4125a5d966a71cf1d67de85bcc2172b2d5815b7e8b5065a35",
+  "sha256": "5c7a5bd56e8f908c6374180ef104fa7108475ff7ea3081328cc408527b72ddb5",
   "deltaELikely": 10,
   "deltaEReview": 15
 }
